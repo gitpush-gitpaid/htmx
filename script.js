@@ -45,6 +45,11 @@ document.addEventListener('DOMContentLoaded', () => {
       alt: 'co-ceo of HTMX',
       url: 'https://twitter.com/danielwalm60394',
     },
+    {
+      src: 'spiro_ceo.jpg',
+      alt: 'co-ceo of HTMX',
+      url: 'https://twitter.com/spirodonfl',
+    },
   ];
 
   const shillImages = [
