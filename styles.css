@@ -45,3 +45,34 @@ header,
 footer {
   text-align: center;
 }
+
+.image-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around; /* Or use 'space-between' */
+}
+
+.image-box {
+    flex: 0 0 calc(16.66% - 10px); /* For 6 images per row on desktop */
+    margin: 5px;
+    box-sizing: border-box;
+}
+
+.image-box img {
+    width: 100%;
+    height: auto; /* Maintain aspect ratio */
+}
+
+/* Tablet Layout: 3 images per row */
+@media (min-width: 601px) and (max-width: 1024px) {
+    .image-box {
+        flex: 0 0 calc(33.33% - 10px); /* For 3 images per row */
+    }
+}
+
+/* Mobile Layout: 2 images per row */
+@media (max-width: 600px) {
+    .image-box {
+        flex: 0 0 calc(50% - 10px); /* For 2 images per row */
+    }
+}
