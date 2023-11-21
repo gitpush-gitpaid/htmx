@@ -65,6 +65,11 @@ document.addEventListener('DOMContentLoaded', () => {
       alt: 'co-ceo of HTMX',
       url: 'https://twitter.com/samcook_',
     },
+    {
+      src: 'stauros_ceo.jpg',
+      alt: 'co-ceo of HTMX',
+      url: 'https://twitter.com/olavostauros',
+    },
   ];
 
   const shillImages = [
