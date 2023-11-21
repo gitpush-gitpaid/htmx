@@ -55,6 +55,11 @@ document.addEventListener('DOMContentLoaded', () => {
       alt: 'co-ceo of HTMX',
       url: 'https://twitter.com/trshpuppy',
     },
+    {
+      src: 'abrinsky_ceo.jpg',
+      alt: 'co-ceo of HTMX',
+      url: 'https://twitter.com/_abrinsky',
+    },
   ];
 
   const shillImages = [
