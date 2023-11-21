@@ -70,6 +70,11 @@ document.addEventListener('DOMContentLoaded', () => {
       alt: 'co-ceo of HTMX',
       url: 'https://twitter.com/olavostauros',
     },
+    {
+      src: 'shreyas_ceo.jpg',
+      alt: 'co-ceo of HTMX',
+      url: 'https://twitter.com/shreyassanthu77',
+    },
   ];
 
   const shillImages = [
