@@ -50,6 +50,11 @@ document.addEventListener('DOMContentLoaded', () => {
       alt: 'co-ceo of HTMX',
       url: 'https://twitter.com/spirodonfl',
     },
+    {
+      src: 'trash_ceo.jpg',
+      alt: 'co-ceo of HTMX',
+      url: 'https://twitter.com/trshpuppy',
+    },
   ];
 
   const shillImages = [
