@@ -95,6 +95,11 @@ document.addEventListener('DOMContentLoaded', () => {
       alt: 'co-ceo of HTMX',
       url: 'https://twitter.com/loftwah',
     },
+    {
+      src: 'antonio_ceo.jpg',
+      alt: 'co-ceo of HTMX',
+      url: 'https://twitter.com/antoniojasr',
+    },
   ];
 
   const shillImages = [
