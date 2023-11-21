@@ -85,6 +85,11 @@ document.addEventListener('DOMContentLoaded', () => {
       alt: 'co-ceo of HTMX',
       url: 'https://twitter.com/justinsuave_',
     },
+    {
+      src: 'drew_ceo.jpg',
+      alt: 'co-ceo of HTMX',
+      url: 'https://twitter.com/drewskadoosh',
+    },
   ];
 
   const shillImages = [
