@@ -31,6 +31,11 @@ document.addEventListener('DOMContentLoaded', () => {
       url: 'https://twitter.com/zeu_dev',
     },
     {
+      src: 'nate_ceo.jpg',
+      alt: 'co-ceo of HTMX',
+      url: 'https://twitter.com/nateemerson',
+    },
+    {
       src: 'barrett_ceo.jpg',
       alt: 'co-ceo of HTMX',
       url: 'https://twitter.com/sledgedev',
