@@ -110,6 +110,16 @@ document.addEventListener('DOMContentLoaded', () => {
       alt: 'co-ceo of HTMX',
       url: 'https://twitter.com/mrjaylc',
     },
+    {
+      src: 'mrjay_ceo.jpg',
+      alt: 'co-ceo of HTMX',
+      url: 'https://twitter.com/mrjaylc',
+    },
+    {
+      src: 'dogue_ceo.jpg',
+      alt: 'co-ceo of HTMX',
+      url: 'https://twitter.com/magnum_d1ngus',
+    },
   ];
 
   const shillImages = [
