@@ -115,6 +115,11 @@ document.addEventListener('DOMContentLoaded', () => {
       alt: 'co-ceo of HTMX',
       url: 'https://twitter.com/magnum_d1ngus',
     },
+    {
+      src: 'joshmanders_ceo.jpg',
+      alt: 'co-ceo of HTMX',
+      url: 'https://twitter.com/joshmanders',
+    },
   ];
 
   const shillImages = [
