@@ -130,6 +130,11 @@ document.addEventListener('DOMContentLoaded', () => {
       alt: 'co-ceo of HTMX',
       url: 'https://twitter.com/realzvqle',
     },
+    {
+      src: 'dana_ceo.jpg',
+      alt: 'co-ceo of HTMX',
+      url: 'https://twitter.com/danawoodman',
+    },
   ];
 
   const shillImages = [
