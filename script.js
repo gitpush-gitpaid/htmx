@@ -155,6 +155,11 @@ document.addEventListener('DOMContentLoaded', () => {
       alt: 'co-ceo of HTMX',
       url: 'https://twitter.com/korjbek',
     },
+    {
+      src: 'braintax_ceo.jpg',
+      alt: 'co-ceo of HTMX',
+      url: 'https://twitter.com/_rosc0e',
+    },
   ];
 
   const shillImages = [
