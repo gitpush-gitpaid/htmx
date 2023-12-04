@@ -135,6 +135,21 @@ document.addEventListener('DOMContentLoaded', () => {
       alt: 'co-ceo of HTMX',
       url: 'https://twitter.com/danawoodman',
     },
+    {
+      src: 'dunlap_ceo.jpg',
+      alt: 'co-ceo of HTMX',
+      url: 'https://twitter.com/jadbox',
+    },
+    {
+      src: 'jakecastro_ceo.jpg',
+      alt: 'co-ceo of HTMX',
+      url: 'https://twitter.com/0x15f',
+    },
+    {
+      src: 'korjbek_ceo.jpg',
+      alt: 'co-ceo of HTMX',
+      url: 'https://twitter.com/korjbek',
+    },
   ];
 
   const shillImages = [
