@@ -175,6 +175,11 @@ document.addEventListener('DOMContentLoaded', () => {
       alt: 'co-ceo of HTMX',
       url: 'https://twitter.com/atalocke',
     },
+    {
+      src: 'tokiomute_ceo.jpg',
+      alt: 'co-ceo of HTMX',
+      url: 'https://twitter.com/tokiomutex',
+    },
   ];
 
   const shillImages = [
