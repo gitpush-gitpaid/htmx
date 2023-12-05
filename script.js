@@ -66,6 +66,11 @@ document.addEventListener('DOMContentLoaded', () => {
       url: 'https://twitter.com/trshpuppy',
     },
     {
+      src: 'howard_ceo.jpg',
+      alt: 'co-ceo of HTMX',
+      url: 'https://twitter.com/howardl3',
+    },
+    {
       src: 'abrinsky_ceo.jpg',
       alt: 'co-ceo of HTMX',
       url: 'https://twitter.com/_abrinsky',
