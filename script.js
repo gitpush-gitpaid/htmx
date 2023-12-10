@@ -6,6 +6,11 @@ document.addEventListener('DOMContentLoaded', () => {
       url: 'https://twitter.com/gitpush_gitpaid',
     },
     {
+      src: 'bun_ceo.jpg',
+      alt: 'co-ceo of HTMX',
+      url: 'https://twitter.com/bunjavascript',
+    },
+    {
       src: 'warren_ceo.jpg',
       alt: 'co-ceo of HTMX',
       url: 'https://twitter.com/warreninthebuff',
