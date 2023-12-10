@@ -6,7 +6,7 @@ document.addEventListener('DOMContentLoaded', () => {
       url: 'https://twitter.com/gitpush_gitpaid',
     },
     {
-      src: 'bunjs_ceo.jpg',
+      src: 'bunjavascript_ceo.jpg',
       alt: 'co-ceo of HTMX',
       url: 'https://twitter.com/bunjavascript',
     },
