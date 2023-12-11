@@ -185,6 +185,16 @@ document.addEventListener('DOMContentLoaded', () => {
       alt: 'co-ceo of HTMX',
       url: 'https://twitter.com/tokiomutex',
     },
+    {
+      src: 'keybrackson_ceo.jpg',
+      alt: 'co-ceo of HTMX',
+      url: 'https://twitter.com/keybrackson',
+    },
+    {
+      src: 'ducky_ceo.jpg',
+      alt: 'co-ceo of HTMX',
+      url: 'https://twitter.com/0xDuckyDev',
+    },
   ];
 
   const shillImages = [
