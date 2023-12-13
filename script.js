@@ -195,9 +195,11 @@ document.addEventListener('DOMContentLoaded', () => {
       alt: 'co-ceo of HTMX',
       url: 'https://twitter.com/0xDuckyDev',
     },
-  ];
-
-  const shillImages = [
+    {
+      src: 'emzra_ceo.jpg',
+      alt: 'co-ceo of HTMX',
+      url: 'https://twitter.com/emzraline',
+    },
     {
       src: 'iron_shill.png',
       alt: 'Shill #1 of HTMX',
@@ -205,8 +207,11 @@ document.addEventListener('DOMContentLoaded', () => {
     },
   ];
 
+  // const shillImages = [
+  // ];
+
   populateImages('ceo-container', ceoImages);
-  populateImages('shill-container', shillImages);
+  // populateImages('shill-container', shillImages);
 });
 
 function populateImages(containerId, images) {
