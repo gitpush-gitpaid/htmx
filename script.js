@@ -156,6 +156,16 @@ document.addEventListener('DOMContentLoaded', () => {
       url: 'https://twitter.com/danawoodman',
     },
     {
+      src: 'emzra_ceo.jpg',
+      alt: 'co-ceo of HTMX',
+      url: 'https://twitter.com/emzraline',
+    },
+    {
+      src: 'iron_shill.png',
+      alt: 'Shill #1 of HTMX',
+      url: 'https://twitter.com/ironcladdev',
+    },
+    {
       src: 'dunlap_ceo.jpg',
       alt: 'co-ceo of HTMX',
       url: 'https://twitter.com/jadbox',
@@ -194,16 +204,6 @@ document.addEventListener('DOMContentLoaded', () => {
       src: 'ducky_ceo.jpg',
       alt: 'co-ceo of HTMX',
       url: 'https://twitter.com/0xDuckyDev',
-    },
-    {
-      src: 'emzra_ceo.jpg',
-      alt: 'co-ceo of HTMX',
-      url: 'https://twitter.com/emzraline',
-    },
-    {
-      src: 'iron_shill.png',
-      alt: 'Shill #1 of HTMX',
-      url: 'https://twitter.com/ironcladdev',
     },
   ];
 
