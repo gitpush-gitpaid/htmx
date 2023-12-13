@@ -32,6 +32,11 @@ img {
   animation: marquee 5s linear infinite;
 }
 
+.htmx-pups {
+  max-width: 500px;
+  height: auto;
+}
+
 @keyframes marquee {
   0% {
     transform: translateX(0);
