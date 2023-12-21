@@ -220,6 +220,11 @@ document.addEventListener('DOMContentLoaded', () => {
       alt: 'co-ceo of HTMX',
       url: 'https://twitter.com/MilesFlavel',
     },
+    {
+      src: 'tomas_ceo.jpg',
+      alt: 'co-ceo of HTMX',
+      url: 'https://twitter.com/toinbis',
+    },
   ];
 
   // const shillImages = [
