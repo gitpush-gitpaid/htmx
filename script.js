@@ -225,6 +225,11 @@ document.addEventListener('DOMContentLoaded', () => {
       alt: 'co-ceo of HTMX',
       url: 'https://twitter.com/toinbis',
     },
+    {
+      src: 'andras_ceo.jpg',
+      alt: 'co-ceo of HTMX',
+      url: 'https://twitter.com/csanyi_andras',
+    },
   ];
 
   // const shillImages = [
