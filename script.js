@@ -245,6 +245,11 @@ document.addEventListener('DOMContentLoaded', () => {
       alt: 'co-ceo of HTMX',
       url: 'https://twitter.com/LLCoolChris_',
     },
+    {
+      src: 'ilia_ceo.jpg',
+      alt: 'co-ceo of HTMX',
+      url: 'https://twitter.com/iliaaamiri',
+    },
   ];
 
   // const shillImages = [
