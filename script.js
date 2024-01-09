@@ -315,6 +315,11 @@ document.addEventListener('DOMContentLoaded', () => {
       alt: 'co-ceo of HTMX',
       url: 'https://twitter.com/BeAdrien',
     },
+    {
+      src: 'francisco_melov_ceo.jpg',
+      alt: 'co-ceo of HTMX',
+      url: 'https://twitter.com/francisco_melov',
+    },
   ];
 
   // const shillImages = [
