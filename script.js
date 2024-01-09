@@ -285,6 +285,11 @@ document.addEventListener('DOMContentLoaded', () => {
       alt: 'co-ceo of HTMX',
       url: 'https://twitter.com/warptux',
     },
+    {
+      src: 'chern0CS_ceo.jpg',
+      alt: 'co-ceo of HTMX',
+      url: 'https://twitter.com/chern0CS',
+    },
   ];
 
   // const shillImages = [
