@@ -320,6 +320,11 @@ document.addEventListener('DOMContentLoaded', () => {
       alt: 'co-ceo of HTMX',
       url: 'https://twitter.com/francisco_melov',
     },
+    {
+      src: 'CooperTheFox7_ceo.jpg',
+      alt: 'co-ceo of HTMX',
+      url: 'https://twitter.com/CooperTheFox7',
+    },
   ];
 
   // const shillImages = [
