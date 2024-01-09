@@ -250,6 +250,11 @@ document.addEventListener('DOMContentLoaded', () => {
       alt: 'co-ceo of HTMX',
       url: 'https://twitter.com/iliaaamiri',
     },
+    {
+      src: 'beaulne_ceo.jpg',
+      alt: 'co-ceo of HTMX',
+      url: 'https://twitter.com/beaulne',
+    },
   ];
 
   // const shillImages = [
