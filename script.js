@@ -11,6 +11,11 @@ document.addEventListener('DOMContentLoaded', () => {
       url: 'https://twitter.com/bunjavascript',
     },
     {
+      src: 'supabase_ceo.jpg',
+      alt: 'co-ceo of HTMX',
+      url: 'https://twitter.com/supabase',
+    },
+    {
       src: 'warren_ceo.jpg',
       alt: 'co-ceo of HTMX',
       url: 'https://twitter.com/warreninthebuff',
