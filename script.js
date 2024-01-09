@@ -301,7 +301,7 @@ document.addEventListener('DOMContentLoaded', () => {
       url: 'https://twitter.com/knewter',
     },
     {
-      src: 'zachbellay.jpg',
+      src: 'zachbellay_ceo.jpg',
       alt: 'co-ceo of HTMX',
       url: 'https://twitter.com/zachbellay',
     },
