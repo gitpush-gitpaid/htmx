@@ -325,6 +325,11 @@ document.addEventListener('DOMContentLoaded', () => {
       alt: 'co-ceo of HTMX',
       url: 'https://twitter.com/CooperTheFox7',
     },
+    {
+      src: 'TyrelDenison_ceo.jpg',
+      alt: 'co-ceo of HTMX',
+      url: 'https://twitter.com/TyrelDenison',
+    },
   ];
 
   // const shillImages = [
