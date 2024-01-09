@@ -330,6 +330,11 @@ document.addEventListener('DOMContentLoaded', () => {
       alt: 'co-ceo of HTMX',
       url: 'https://twitter.com/TyrelDenison',
     },
+    {
+      src: 'goulartio_ceo.jpg',
+      alt: 'co-ceo of HTMX',
+      url: 'https://twitter.com/goulartio',
+    },
   ];
 
   // const shillImages = [
