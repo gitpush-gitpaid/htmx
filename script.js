@@ -206,9 +206,9 @@ document.addEventListener('DOMContentLoaded', () => {
       url: 'https://twitter.com/tokiomutex',
     },
     {
-      src: 'keybrackson_ceo.jpg',
+      src: 'keyladelslay_ceo.jpg',
       alt: 'co-ceo of HTMX',
-      url: 'https://twitter.com/keybrackson',
+      url: 'https://twitter.com/keyladelslay',
     },
     {
       src: 'ducky_ceo.jpg',
