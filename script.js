@@ -370,6 +370,21 @@ document.addEventListener('DOMContentLoaded', () => {
       alt: 'co-ceo of HTMX',
       url: 'https://twitter.com/bensilverman_',
     },
+    {
+      src: 'jessesbeets_ceo.jpg',
+      alt: 'co-ceo of HTMX',
+      url: 'https://twitter.com/jessesbeets',
+    },
+    {
+      src: 'laame_ceo.jpg',
+      alt: 'co-ceo of HTMX',
+      url: 'https://twitter.com/laame',
+    },
+    {
+      src: 'masnapizda_ceo.jpg',
+      alt: 'co-ceo of HTMX',
+      url: 'https://twitter.com/masnapizda',
+    },
   ];
 
   // const shillImages = [
