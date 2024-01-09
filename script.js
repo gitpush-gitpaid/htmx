@@ -335,6 +335,11 @@ document.addEventListener('DOMContentLoaded', () => {
       alt: 'co-ceo of HTMX',
       url: 'https://twitter.com/goulartio',
     },
+    {
+      src: 'SebTh3Red_ceo.jpg',
+      alt: 'co-ceo of HTMX',
+      url: 'https://twitter.com/SebTh3Red',
+    },
   ];
 
   // const shillImages = [
