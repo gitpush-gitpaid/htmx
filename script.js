@@ -410,6 +410,11 @@ document.addEventListener('DOMContentLoaded', () => {
       alt: 'co-ceo of HTMX',
       url: 'https://twitter.com/braunschweiler',
     },
+    {
+      src: 'Gettersethya_ceo.jpg',
+      alt: 'co-ceo of HTMX',
+      url: 'https://twitter.com/Gettersethya',
+    },
   ];
 
   // const shillImages = [
