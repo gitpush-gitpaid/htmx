@@ -360,6 +360,11 @@ document.addEventListener('DOMContentLoaded', () => {
       alt: 'co-ceo of HTMX',
       url: 'https://twitter.com/dudenamedsteve',
     },
+    {
+      src: 'rurikid0_ceo.jpg',
+      alt: 'co-ceo of HTMX',
+      url: 'https://twitter.com/rurikid0',
+    },
   ];
 
   // const shillImages = [
