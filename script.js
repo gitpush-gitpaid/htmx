@@ -290,6 +290,11 @@ document.addEventListener('DOMContentLoaded', () => {
       alt: 'co-ceo of HTMX',
       url: 'https://twitter.com/chern0CS',
     },
+    {
+      src: 'IamFridayLove_ceo.jpg',
+      alt: 'co-ceo of HTMX',
+      url: 'https://twitter.com/IamFridayLove',
+    },
   ];
 
   // const shillImages = [
