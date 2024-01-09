@@ -265,6 +265,26 @@ document.addEventListener('DOMContentLoaded', () => {
       alt: 'co-ceo of HTMX',
       url: 'https://twitter.com/RudRecciah',
     },
+    {
+      src: 'claudiogonzalo_ceo.jpg',
+      alt: 'co-ceo of HTMX',
+      url: 'https://twitter.com/claudiogonzalo',
+    },
+    {
+      src: 'o__boga_ceo.jpg',
+      alt: 'co-ceo of HTMX',
+      url: 'https://twitter.com/o__boga',
+    },
+    {
+      src: 'jacoblatonis_ceo.jpg',
+      alt: 'co-ceo of HTMX',
+      url: 'https://twitter.com/jacoblatonis',
+    },
+    {
+      src: 'warptux_ceo.jpg',
+      alt: 'co-ceo of HTMX',
+      url: 'https://twitter.com/warptux',
+    },
   ];
 
   // const shillImages = [
