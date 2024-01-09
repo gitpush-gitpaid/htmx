@@ -350,6 +350,11 @@ document.addEventListener('DOMContentLoaded', () => {
       alt: 'co-ceo of HTMX',
       url: 'https://twitter.com/LiathHelvetica',
     },
+    {
+      src: 'rogerscissp_ceo.jpg',
+      alt: 'co-ceo of HTMX',
+      url: 'https://twitter.com/rogerscissp',
+    },
   ];
 
   // const shillImages = [
