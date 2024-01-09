@@ -355,6 +355,11 @@ document.addEventListener('DOMContentLoaded', () => {
       alt: 'co-ceo of HTMX',
       url: 'https://twitter.com/rogerscissp',
     },
+    {
+      src: 'dudenamedsteve_ceo.jpg',
+      alt: 'co-ceo of HTMX',
+      url: 'https://twitter.com/dudenamedsteve',
+    },
   ];
 
   // const shillImages = [
