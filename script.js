@@ -100,7 +100,7 @@ function populateImages(containerId, images) {
   const container = document.getElementById(containerId);
 
   images.forEach((image) => {
-    const ceoName = image;
+    const ceoName = encodeURIComponent(image);
     const twitterUrl = `https://twitter.com/${ceoName}`;
     const link = document.createElement('a');
     link.href = twitterUrl;
