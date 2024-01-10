@@ -91,7 +91,15 @@ document.addEventListener('DOMContentLoaded', () => {
     'JettIsOnTheNet',
     'puffercatt',
     'nimeshk_',
-    'Dreat_', 'tercmd', 'kimjisena', 'kegor', 'gcollazo', 'ttecho2021', 'NikPoltoratsky', 'hieemeli'
+    'Dreat_',
+    'tercmd',
+    'kimjisena',
+    'kegor',
+    'gcollazo',
+    'ttecho2021',
+    'NikPoltoratsky',
+    'hieemeli',
+    'shotmas',
   ];
 
   // const shillImages = [
