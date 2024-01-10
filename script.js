@@ -90,7 +90,8 @@ document.addEventListener('DOMContentLoaded', () => {
     'paytondev',
     'JettIsOnTheNet',
     'puffercatt',
-    'nimeshk_'
+    'nimeshk_',
+    'Dreat_'
   ];
 
   // const shillImages = [
