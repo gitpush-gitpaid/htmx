@@ -100,7 +100,7 @@ document.addEventListener('DOMContentLoaded', () => {
     'NikPoltoratsky',
     'hieemeli',
     'shotmas',
-    'ValentinSilves',
+    'ValentinSilves', 'DairAidarkhanov'
   ];
 
   // const shillImages = [
