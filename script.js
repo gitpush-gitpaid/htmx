@@ -425,6 +425,11 @@ document.addEventListener('DOMContentLoaded', () => {
       alt: 'co-ceo of HTMX',
       url: 'https://twitter.com/developerkwame',
     },
+    {
+      src: 'AndrewGossage33_ceo.jpg',
+      alt: 'co-ceo of HTMX',
+      url: 'https://twitter.com/AndrewGossage33',
+    },
   ];
 
   // const shillImages = [
