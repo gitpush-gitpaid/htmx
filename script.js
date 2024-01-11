@@ -114,6 +114,7 @@ document.addEventListener('DOMContentLoaded', () => {
     'bitcrshr',
     'stukennedymusic',
     'stackus',
+    'Malix_off',
   ];
 
   // const shillImages = [
