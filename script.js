@@ -106,7 +106,9 @@ document.addEventListener('DOMContentLoaded', () => {
     'DevSiriTweets',
     'CreeCoder',
     'Sagarpatel010',
-    'nfldyprdn', 'UnsignedTom'
+    'nfldyprdn',
+    'UnsignedTom',
+    'aShubhamz',
   ];
 
   // const shillImages = [
