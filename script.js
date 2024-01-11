@@ -115,7 +115,10 @@ document.addEventListener('DOMContentLoaded', () => {
     'stukennedymusic',
     'stackus',
     'Malix_off',
-    'malware_yml', 'CharlesWthe3rd', 'RumNCodeDev'
+    'malware_yml',
+    'CharlesWthe3rd',
+    'RumNCodeDev',
+    'slowjamsteve',
   ];
 
   // const shillImages = [
