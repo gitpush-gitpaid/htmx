@@ -37,6 +37,7 @@ img {
   height: auto;
 }
 
+
 @keyframes marquee {
   0% {
     transform: translateX(0);
@@ -57,16 +58,26 @@ footer {
   justify-content: space-around;
 }
 
+.image-box img {
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
+  transition: transform 0.3s ease, border-radius 0.3s ease;
+}
+
+.image-box:hover img {
+  transform: scale(1.1);
+  border-radius: 10px;
+}
+
 .image-box {
   flex: 0 0 calc(16.66% - 10px);
   margin: 5px;
   box-sizing: border-box;
+  overflow: hidden;
 }
 
-.image-box img {
-  width: 100%;
-  height: auto;
-}
+
 
 @media (min-width: 601px) and (max-width: 1024px) {
   .image-box {
