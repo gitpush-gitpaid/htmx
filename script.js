@@ -128,6 +128,7 @@ document.addEventListener('DOMContentLoaded', () => {
     'Jordy_vD_',
     'pfpistor',
     'AdjectiveAlli',
+    'fire'
   ];
 
   shuffleArray(ceoImages);
