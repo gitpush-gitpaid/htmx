@@ -135,6 +135,12 @@ document.addEventListener('DOMContentLoaded', () => {
     'tt_kb_',
     'zenhorace',
     'Fer_S73',
+    'TheDanVail',
+    'franciscogm_98',
+    '003cnr',
+    'NanskiO',
+    'BoredSoloDev',
+    'EuryAdam'
   ];
 
   shuffleArray(ceoImages);
@@ -149,6 +155,7 @@ document.addEventListener('DOMContentLoaded', () => {
   if (pathSegment) {
     scrollToElement(pathSegment);
   }
+  document.getElementById('ceoCount').textContent = ceoImages.length;
 });
 
 function populateImages(containerId, images) {
