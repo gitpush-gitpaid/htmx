@@ -121,7 +121,8 @@ document.addEventListener('DOMContentLoaded', () => {
     'slowjamsteve',
     'thewilltejeda',
     'Joao_Catre',
-    'SamRose'
+    'SamRose',
+    'wtravishubbard'
   ];
 
   shuffleArray(ceoImages);
@@ -129,7 +130,6 @@ document.addEventListener('DOMContentLoaded', () => {
 
   document.getElementById('searchInput').addEventListener('input', () => filterImages(ceoImages));
 
-  // Parse the URL path, convert it to lowercase, and scroll to the corresponding element
   const pathSegment = window.location.pathname.substring(1).toLowerCase();
   if (pathSegment) {
     scrollToElement(pathSegment);
@@ -149,7 +149,7 @@ function populateImages(containerId, images) {
 
     const imageBox = document.createElement('div');
     imageBox.className = 'image-box';
-    imageBox.id = ceoName; // Set the ID of the image box to the lowercase image name
+    imageBox.id = ceoName; 
 
     const img = document.createElement('img');
     img.src = `${image}.jpg`;
