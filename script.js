@@ -129,7 +129,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
   document.getElementById('searchInput').addEventListener('input', () => filterImages(ceoImages));
 
-  // Parse the URL path, make it lowercase, and scroll to the corresponding element
+  // Parse the URL path, convert it to lowercase, and scroll to the corresponding element
   const pathSegment = window.location.pathname.substring(1).toLowerCase();
   if (pathSegment) {
     scrollToElement(pathSegment);
