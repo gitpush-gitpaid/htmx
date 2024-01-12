@@ -172,7 +172,8 @@ document.addEventListener('DOMContentLoaded', () => {
     'behkod',
     'BasementPilot',
     '_RustyRooster',
-    'sekunho_'
+    'sekunho_',
+    'nathan___gage'
   ];
 
   shuffleArray(ceoImages);
