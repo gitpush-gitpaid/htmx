@@ -145,6 +145,8 @@ document.addEventListener('DOMContentLoaded', () => {
     'hofner_pls',
     'DODRringIdiot',
     'adder_ko',
+    'icelainL',
+    'RCarpenterDev1',
   ];
 
   shuffleArray(ceoImages);
@@ -214,7 +216,7 @@ function filterImages(ceoImages) {
 
 function scrollToElement(id) {
   const normalizedId = id.toLowerCase();
-  
+
   const imageBoxes = document.querySelectorAll('.image-box');
   for (const box of imageBoxes) {
     if (box.id.toLowerCase() === normalizedId) {
@@ -223,4 +225,3 @@ function scrollToElement(id) {
     }
   }
 }
-
