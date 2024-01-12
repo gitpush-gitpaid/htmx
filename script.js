@@ -213,13 +213,14 @@ function filterImages(ceoImages) {
 }
 
 function scrollToElement(id) {
-  const lowerCaseId = id.toLowerCase();
-
+  const normalizedId = id.toLowerCase();
+  
   const imageBoxes = document.querySelectorAll('.image-box');
   for (const box of imageBoxes) {
-    if (box.id.toLowerCase() === lowerCaseId) {
+    if (box.id.toLowerCase() === normalizedId) {
       box.scrollIntoView({ behavior: 'smooth' });
       break;
     }
   }
 }
+
