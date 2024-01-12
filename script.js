@@ -3,42 +3,42 @@ document.addEventListener('DOMContentLoaded', () => {
     'gitpush_gitpaid',
     'bunjavascript',
     'supabase',
-    'warreninthebuff',
+    'WarrenInTheBuff',
     'techsavvytravvy',
     'mgdotdev',
-    'ladybluenotes',
+    'LadyBluenotes',
     'swlkr',
     'zeu_dev',
     'nateemerson',
-    'sledgedev',
+    'SledgeDev',
     'kiyov09',
-    'danielwalm60394',
+    'DanielWalm60394',
     'spirodonfl',
     'trshpuppy',
-    'howardl3',
+    'HowardL3',
     'patleeman',
-    '_abrinsky',
+    '_Abrinsky',
     'samcook_',
     'olavostauros',
-    'shreyassanthu77',
+    'Shreyassanthu77',
     'pbertrand_dev',
     'rustafariandev',
-    'justinsuave_',
+    'JustinSuave_',
     'drewskadoosh',
     'loftwah',
-    'antoniojasr',
-    'mrjaylc',
+    'antonioJASR',
+    'MrJayLC',
     'magnum_d1ngus',
     'joshmanders',
     'badcop_',
     'realzvqle',
-    'danawoodman',
+    'DanaWoodman',
     'emzraline',
-    'ironcladdev',
+    'IroncladDev',
     'jadbox',
     '0x15f',
     'korjbek',
-    '_rosc0e',
+    '_Rosc0e',
     'atalocke',
     'tokiomutex',
     'keyladelslay',
@@ -153,8 +153,7 @@ document.addEventListener('DOMContentLoaded', () => {
     .getElementById('searchInput')
     .addEventListener('input', () => filterImages(ceoImages));
 
-  // Parse the URL path and scroll to the corresponding element
-  const pathSegment = window.location.pathname.substring(1); // Get the path without the leading '/'
+  const pathSegment = window.location.pathname.substring(1);
   if (pathSegment) {
     scrollToElement(pathSegment);
   }
@@ -174,13 +173,24 @@ function populateImages(containerId, images) {
 
     const imageBox = document.createElement('div');
     imageBox.className = 'image-box';
-    imageBox.id = image; // Set the ID of the image box to the image name
+    imageBox.id = image;
 
     const img = document.createElement('img');
     img.src = `${image}.jpg`;
     img.alt = 'co-CEO of HTMX';
 
+    const textBox = document.createElement('div');
+    textBox.className = 'text-box';
+    textBox.textContent = image; 
+    textBox.style.position = 'absolute';
+    textBox.style.bottom = '0';
+    textBox.style.right = '0';
+    textBox.style.backgroundColor = 'black';
+    textBox.style.color = 'white';
+    textBox.style.padding = '5px';
+
     imageBox.appendChild(img);
+    imageBox.appendChild(textBox);
     link.appendChild(imageBox);
     container.appendChild(link);
   });

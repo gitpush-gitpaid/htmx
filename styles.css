@@ -83,6 +83,8 @@ footer {
   margin: 5px;
   box-sizing: border-box;
   overflow: hidden;
+  position: relative;
+  display: inline-block; 
 }
 
 @media (min-width: 601px) and (max-width: 1024px) {
@@ -95,4 +97,10 @@ footer {
   .image-box {
     flex: 0 0 calc(50% - 10px);
   }
+}
+
+
+.text-box {
+  border-top-left-radius: 10px; /* Adjust the radius value as needed */
+
 }
