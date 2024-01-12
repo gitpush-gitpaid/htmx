@@ -213,7 +213,9 @@ function filterImages(ceoImages) {
 }
 
 function scrollToElement(id) {
-  const element = document.getElementById(id);
+  // Convert the URL fragment to match the case of the array elements
+  const formattedId = id.charAt(0).toUpperCase() + id.slice(1).toLowerCase();
+  const element = document.getElementById(formattedId);
   if (element) {
     element.scrollIntoView({ behavior: 'smooth' });
   }
