@@ -143,7 +143,8 @@ document.addEventListener('DOMContentLoaded', () => {
     'EuryAdam',
     'JacobScearcy',
     'hofner_pls',
-    'DODRringIdiot'
+    'DODRringIdiot',
+    'adder_ko',
   ];
 
   shuffleArray(ceoImages);
@@ -181,7 +182,7 @@ function populateImages(containerId, images) {
 
     const textBox = document.createElement('div');
     textBox.className = 'text-box';
-    textBox.textContent = image; 
+    textBox.textContent = image;
     textBox.style.position = 'absolute';
     textBox.style.bottom = '0';
     textBox.style.right = '0';
