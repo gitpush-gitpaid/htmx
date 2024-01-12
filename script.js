@@ -147,6 +147,7 @@ document.addEventListener('DOMContentLoaded', () => {
     'adder_ko',
     'icelainL',
     'RCarpenterDev1',
+    're_natillas',
   ];
 
   shuffleArray(ceoImages);
