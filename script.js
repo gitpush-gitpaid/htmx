@@ -213,10 +213,13 @@ function filterImages(ceoImages) {
 }
 
 function scrollToElement(id) {
-  // Convert the URL fragment to match the case of the array elements
-  const formattedId = id.charAt(0).toUpperCase() + id.slice(1).toLowerCase();
-  const element = document.getElementById(formattedId);
-  if (element) {
-    element.scrollIntoView({ behavior: 'smooth' });
+  const lowerCaseId = id.toLowerCase();
+
+  const imageBoxes = document.querySelectorAll('.image-box');
+  for (const box of imageBoxes) {
+    if (box.id.toLowerCase() === lowerCaseId) {
+      box.scrollIntoView({ behavior: 'smooth' });
+      break;
+    }
   }
 }
