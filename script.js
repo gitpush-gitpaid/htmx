@@ -128,10 +128,10 @@ document.addEventListener('DOMContentLoaded', () => {
 
   document.getElementById('searchInput').addEventListener('input', () => filterImages(ceoImages));
 
-  // Parse the URL path and scroll to the corresponding element
-  const pathSegment = window.location.pathname.substring(1); // Get the path without the leading '/'
-  if (pathSegment) {
-    scrollToElement(pathSegment);
+  // Check if URL has a fragment and scroll to the corresponding element
+  const urlFragment = window.location.hash.substring(1); // Remove the '#' from the hash
+  if (urlFragment) {
+    scrollToElement(urlFragment);
   }
 });
 
