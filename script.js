@@ -135,13 +135,12 @@ document.addEventListener('DOMContentLoaded', () => {
   shuffleArray(ceoImages);
   populateImages('ceo-container', ceoImages);
 
-  document
-    .getElementById('searchInput')
-    .addEventListener('input', () => filterImages(ceoImages));
+  document.getElementById('searchInput').addEventListener('input', () => filterImages(ceoImages));
 
-  const urlFragment = window.location.hash.substring(1).toLowerCase();
-  if (urlFragment) {
-    scrollToElement(urlFragment);
+  // Parse the URL path and scroll to the corresponding element
+  const pathSegment = window.location.pathname.substring(1); // Get the path without the leading '/'
+  if (pathSegment) {
+    scrollToElement(pathSegment);
   }
 });
 
@@ -150,19 +149,19 @@ function populateImages(containerId, images) {
   container.innerHTML = '';
 
   images.forEach((image) => {
-    const ceoName = image.toLowerCase();
-    const twitterUrl = `https://twitter.com/${encodeURIComponent(ceoName)}`;
+    const ceoName = encodeURIComponent(image);
+    const twitterUrl = `https://twitter.com/${ceoName}`;
     const link = document.createElement('a');
     link.href = twitterUrl;
     link.target = '_blank';
 
     const imageBox = document.createElement('div');
     imageBox.className = 'image-box';
-    imageBox.id = ceoName;
+    imageBox.id = image; // Set the ID of the image box to the image name
 
     const img = document.createElement('img');
     img.src = `${image}.jpg`;
-    img.alt = `co-CEO of HTMX, ${image}`;
+    img.alt = 'co-CEO of HTMX';
 
     imageBox.appendChild(img);
     link.appendChild(imageBox);
@@ -179,9 +178,7 @@ function shuffleArray(array) {
 
 function filterImages(ceoImages) {
   const input = document.getElementById('searchInput').value.toLowerCase();
-  const filteredImages = ceoImages.filter((image) =>
-    image.toLowerCase().includes(input)
-  );
+  const filteredImages = ceoImages.filter(image => image.toLowerCase().includes(input));
   populateImages('ceo-container', filteredImages);
 }
 
