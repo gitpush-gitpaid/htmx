@@ -127,6 +127,7 @@ document.addEventListener('DOMContentLoaded', () => {
     'sterlingjss',
     'Jordy_vD_',
     'pfpistor',
+    'AdjectiveAlli',
   ];
 
   shuffleArray(ceoImages);
@@ -136,9 +137,9 @@ document.addEventListener('DOMContentLoaded', () => {
     .getElementById('searchInput')
     .addEventListener('input', () => filterImages(ceoImages));
 
-  const pathSegment = window.location.pathname.substring(1).toLowerCase();
-  if (pathSegment) {
-    scrollToElement(pathSegment);
+  const urlFragment = window.location.hash.substring(1).toLowerCase();
+  if (urlFragment) {
+    scrollToElement(urlFragment);
   }
 });
 
@@ -147,8 +148,8 @@ function populateImages(containerId, images) {
   container.innerHTML = '';
 
   images.forEach((image) => {
-    const ceoName = encodeURIComponent(image).toLowerCase();
-    const twitterUrl = `https://twitter.com/${ceoName}`;
+    const ceoName = image.toLowerCase();
+    const twitterUrl = `https://twitter.com/${encodeURIComponent(ceoName)}`;
     const link = document.createElement('a');
     link.href = twitterUrl;
     link.target = '_blank';
@@ -159,7 +160,7 @@ function populateImages(containerId, images) {
 
     const img = document.createElement('img');
     img.src = `${image}.jpg`;
-    img.alt = 'co-CEO of HTMX';
+    img.alt = `co-CEO of HTMX, ${image}`;
 
     imageBox.appendChild(img);
     link.appendChild(imageBox);
