@@ -154,7 +154,7 @@ document.addEventListener('DOMContentLoaded', () => {
     .getElementById('searchInput')
     .addEventListener('input', () => filterImages(ceoImages));
 
-  const pathSegment = window.location.pathname.substring(1);
+  const pathSegment = window.location.hash.substring(1);
   if (pathSegment) {
     scrollToElement(pathSegment);
   }
