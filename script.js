@@ -152,7 +152,7 @@ document.addEventListener('DOMContentLoaded', () => {
     'Fax3l',
     'Givo29',
     'gnaaruag',
-    'danielp_johnson',
+    'danielp_johnson', 'caveposter'
   ];
 
   shuffleArray(ceoImages);
