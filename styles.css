@@ -37,6 +37,14 @@ img {
   height: auto;
 }
 
+#searchInput {
+  padding: 10px 15px;
+  border: 2px solid #ccc;
+  border-radius: 8px;
+  font-size: 16px;
+  margin-bottom: 20px;
+  min-width: 350px;
+}
 
 @keyframes marquee {
   0% {
@@ -76,8 +84,6 @@ footer {
   box-sizing: border-box;
   overflow: hidden;
 }
-
-
 
 @media (min-width: 601px) and (max-width: 1024px) {
   .image-box {
