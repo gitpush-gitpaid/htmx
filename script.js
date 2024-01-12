@@ -148,6 +148,7 @@ document.addEventListener('DOMContentLoaded', () => {
     'icelainL',
     'RCarpenterDev1',
     're_natillas',
+    'KansaiGaijinEng'
   ];
 
   shuffleArray(ceoImages);
