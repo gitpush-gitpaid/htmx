@@ -122,13 +122,19 @@ document.addEventListener('DOMContentLoaded', () => {
     'thewilltejeda',
     'Joao_Catre',
     'SamRose',
-    'wtravishubbard'
+    'wtravishubbard',
+    'JeffQuesado',
+    'sterlingjss',
+    'Jordy_vD_',
+    'pfpistor',
   ];
 
   shuffleArray(ceoImages);
   populateImages('ceo-container', ceoImages);
 
-  document.getElementById('searchInput').addEventListener('input', () => filterImages(ceoImages));
+  document
+    .getElementById('searchInput')
+    .addEventListener('input', () => filterImages(ceoImages));
 
   const pathSegment = window.location.pathname.substring(1).toLowerCase();
   if (pathSegment) {
@@ -149,7 +155,7 @@ function populateImages(containerId, images) {
 
     const imageBox = document.createElement('div');
     imageBox.className = 'image-box';
-    imageBox.id = ceoName; 
+    imageBox.id = ceoName;
 
     const img = document.createElement('img');
     img.src = `${image}.jpg`;
@@ -170,7 +176,9 @@ function shuffleArray(array) {
 
 function filterImages(ceoImages) {
   const input = document.getElementById('searchInput').value.toLowerCase();
-  const filteredImages = ceoImages.filter(image => image.toLowerCase().includes(input));
+  const filteredImages = ceoImages.filter((image) =>
+    image.toLowerCase().includes(input)
+  );
   populateImages('ceo-container', filteredImages);
 }
 
