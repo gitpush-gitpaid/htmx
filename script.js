@@ -152,7 +152,23 @@ document.addEventListener('DOMContentLoaded', () => {
     'Fax3l',
     'Givo29',
     'gnaaruag',
-    'danielp_johnson', 'caveposter'
+    'danielp_johnson',
+    'caveposter',
+    'lovexbytes',
+    'brattonross',
+    'nauf95',
+    'matejbc',
+    '__mbaraa',
+    'vin_yb',
+    'Linkinlogger',
+    'dhruvdabhi101',
+    'JonathanHeindl',
+    'Zqrc',
+    'dhruv_says_hi',
+    'crittdev',
+    'eddydelva',
+    'Thumbquat',
+    'stefan_e_k'
   ];
 
   shuffleArray(ceoImages);
