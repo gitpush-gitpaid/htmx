@@ -130,13 +130,16 @@ document.addEventListener('DOMContentLoaded', () => {
     'AdjectiveAlli',
     'fire',
     'rickhanlonii',
-    'ampyourgrowth'
+    'ampyourgrowth',
+    'alexcberk',
   ];
 
   shuffleArray(ceoImages);
   populateImages('ceo-container', ceoImages);
 
-  document.getElementById('searchInput').addEventListener('input', () => filterImages(ceoImages));
+  document
+    .getElementById('searchInput')
+    .addEventListener('input', () => filterImages(ceoImages));
 
   // Parse the URL path and scroll to the corresponding element
   const pathSegment = window.location.pathname.substring(1); // Get the path without the leading '/'
@@ -179,7 +182,9 @@ function shuffleArray(array) {
 
 function filterImages(ceoImages) {
   const input = document.getElementById('searchInput').value.toLowerCase();
-  const filteredImages = ceoImages.filter(image => image.toLowerCase().includes(input));
+  const filteredImages = ceoImages.filter((image) =>
+    image.toLowerCase().includes(input)
+  );
   populateImages('ceo-container', filteredImages);
 }
 
