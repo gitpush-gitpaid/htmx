@@ -141,7 +141,8 @@ document.addEventListener('DOMContentLoaded', () => {
     'NanskiO',
     'BoredSoloDev',
     'EuryAdam',
-    'JacobScearcy'
+    'JacobScearcy',
+    'hofner_pls',
   ];
 
   shuffleArray(ceoImages);
