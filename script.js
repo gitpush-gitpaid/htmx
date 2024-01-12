@@ -127,6 +127,12 @@ document.addEventListener('DOMContentLoaded', () => {
   populateImages('ceo-container', ceoImages);
 
   document.getElementById('searchInput').addEventListener('input', () => filterImages(ceoImages));
+
+  // Parse the URL path and scroll to the corresponding element
+  const pathSegment = window.location.pathname.substring(1); // Get the path without the leading '/'
+  if (pathSegment) {
+    scrollToElement(pathSegment);
+  }
 });
 
 function populateImages(containerId, images) {
@@ -134,29 +140,30 @@ function populateImages(containerId, images) {
   container.innerHTML = '';
 
   images.forEach((image) => {
-      const ceoName = encodeURIComponent(image);
-      const twitterUrl = `https://twitter.com/${ceoName}`;
-      const link = document.createElement('a');
-      link.href = twitterUrl;
-      link.target = '_blank';
+    const ceoName = encodeURIComponent(image);
+    const twitterUrl = `https://twitter.com/${ceoName}`;
+    const link = document.createElement('a');
+    link.href = twitterUrl;
+    link.target = '_blank';
 
-      const imageBox = document.createElement('div');
-      imageBox.className = 'image-box';
+    const imageBox = document.createElement('div');
+    imageBox.className = 'image-box';
+    imageBox.id = image; // Set the ID of the image box to the image name
 
-      const img = document.createElement('img');
-      img.src = `${image}.jpg`;
-      img.alt = 'co-CEO of HTMX';
+    const img = document.createElement('img');
+    img.src = `${image}.jpg`;
+    img.alt = 'co-CEO of HTMX';
 
-      imageBox.appendChild(img);
-      link.appendChild(imageBox);
-      container.appendChild(link);
+    imageBox.appendChild(img);
+    link.appendChild(imageBox);
+    container.appendChild(link);
   });
 }
 
 function shuffleArray(array) {
   for (let i = array.length - 1; i > 0; i--) {
-      const j = Math.floor(Math.random() * (i + 1));
-      [array[i], array[j]] = [array[j], array[i]];
+    const j = Math.floor(Math.random() * (i + 1));
+    [array[i], array[j]] = [array[j], array[i]];
   }
 }
 
@@ -164,4 +171,11 @@ function filterImages(ceoImages) {
   const input = document.getElementById('searchInput').value.toLowerCase();
   const filteredImages = ceoImages.filter(image => image.toLowerCase().includes(input));
   populateImages('ceo-container', filteredImages);
+}
+
+function scrollToElement(id) {
+  const element = document.getElementById(id);
+  if (element) {
+    element.scrollIntoView({ behavior: 'smooth' });
+  }
 }
