@@ -150,6 +150,7 @@ document.addEventListener('DOMContentLoaded', () => {
     're_natillas',
     'KansaiGaijinEng',
     'Fax3l',
+    'Givo29',
   ];
 
   shuffleArray(ceoImages);
