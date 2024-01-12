@@ -129,7 +129,8 @@ document.addEventListener('DOMContentLoaded', () => {
     'pfpistor',
     'AdjectiveAlli',
     'fire',
-    'rickhanlonii'
+    'rickhanlonii',
+    'ampyourgrowth'
   ];
 
   shuffleArray(ceoImages);
