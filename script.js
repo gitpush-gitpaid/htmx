@@ -121,41 +121,45 @@ document.addEventListener('DOMContentLoaded', () => {
     'slowjamsteve',
   ];
 
-  // const shillImages = [
-  // ];
-
+  shuffleArray(ceoImages);
   populateImages('ceo-container', ceoImages);
-  // populateImages('shill-container', shillImages);
+
+  document.getElementById('searchInput').addEventListener('input', () => filterImages(ceoImages));
 });
 
 function populateImages(containerId, images) {
   const container = document.getElementById(containerId);
-  shuffleArray(images);
+  container.innerHTML = '';
 
   images.forEach((image) => {
-    const ceoName = encodeURIComponent(image);
-    const twitterUrl = `https://twitter.com/${ceoName}`;
-    const link = document.createElement('a');
-    link.href = twitterUrl;
-    link.target = '_blank';
+      const ceoName = encodeURIComponent(image);
+      const twitterUrl = `https://twitter.com/${ceoName}`;
+      const link = document.createElement('a');
+      link.href = twitterUrl;
+      link.target = '_blank';
 
-    const imageBox = document.createElement('div');
-    imageBox.className = 'image-box';
+      const imageBox = document.createElement('div');
+      imageBox.className = 'image-box';
 
-    const img = document.createElement('img');
-    img.src = `${image}.jpg`;
-    img.alt = 'co-CEO of HTMX';
+      const img = document.createElement('img');
+      img.src = `${image}.jpg`;
+      img.alt = 'co-CEO of HTMX';
 
-    imageBox.appendChild(img);
-    link.appendChild(imageBox);
-    container.appendChild(link);
+      imageBox.appendChild(img);
+      link.appendChild(imageBox);
+      container.appendChild(link);
   });
 }
 
 function shuffleArray(array) {
   for (let i = array.length - 1; i > 0; i--) {
-    const j = Math.floor(Math.random() * (i + 1));
-    [array[i], array[j]] = [array[j], array[i]]; // Swap elements
+      const j = Math.floor(Math.random() * (i + 1));
+      [array[i], array[j]] = [array[j], array[i]];
   }
-  return array;
+}
+
+function filterImages(ceoImages) {
+  const input = document.getElementById('searchInput').value.toLowerCase();
+  const filteredImages = ceoImages.filter(image => image.toLowerCase().includes(input));
+  populateImages('ceo-container', filteredImages);
 }
