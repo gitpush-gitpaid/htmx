@@ -173,7 +173,8 @@ document.addEventListener('DOMContentLoaded', () => {
     'BasementPilot',
     '_RustyRooster',
     'sekunho_',
-    'nathan___gage'
+    'nathan___gage',
+    'multineonteam'
   ];
 
   shuffleArray(ceoImages);
