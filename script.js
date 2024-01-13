@@ -185,7 +185,9 @@ document.addEventListener('DOMContentLoaded', () => {
     'elemento_siesto',
     'wagslane',
     'devinbgoble',
-    'noccris31'
+    'noccris31',
+    'NathanPire',
+    'dan_abramov2'
   ];
 
   shuffleArray(ceoImages);
