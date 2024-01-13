@@ -183,7 +183,8 @@ document.addEventListener('DOMContentLoaded', () => {
     'marmotadesigual',
     'a_markski',
     'elemento_siesto',
-    'wagslane'
+    'wagslane',
+    'devinbgoble'
   ];
 
   shuffleArray(ceoImages);
