@@ -180,7 +180,8 @@ document.addEventListener('DOMContentLoaded', () => {
     'jjcxdev',
     'SebCuadros',
     'aidantilgner',
-    'marmotadesigual'
+    'marmotadesigual',
+    'a_markski'
   ];
 
   shuffleArray(ceoImages);
