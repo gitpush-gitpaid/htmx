@@ -188,7 +188,8 @@ document.addEventListener('DOMContentLoaded', () => {
     'noccris31',
     'NathanPire',
     'dan_abramov2',
-    'yungifez'
+    'yungifez',
+    'awaveawave'
   ];
 
   shuffleArray(ceoImages);
