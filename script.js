@@ -190,7 +190,12 @@ document.addEventListener('DOMContentLoaded', () => {
     'dan_abramov2',
     'yungifez',
     'awaveawave',
-    'emjayess'
+    'emjayess',
+    'anilsenay',
+    'mitchazj',
+    'zormie',
+    'Cena_Suckss',
+    
   ];
 
   shuffleArray(ceoImages);
