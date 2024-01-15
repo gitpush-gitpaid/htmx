@@ -195,7 +195,7 @@ document.addEventListener('DOMContentLoaded', () => {
     'mitchazj',
     'zormie',
     'Cena_Suckss',
-    
+    'unwrapped_monad'
   ];
 
   shuffleArray(ceoImages);
