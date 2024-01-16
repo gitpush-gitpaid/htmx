@@ -207,7 +207,8 @@ document.addEventListener('DOMContentLoaded', () => {
     'phrackery',
     'BifocalCanvas',
     'tim_bytes',
-    'dmvjs'
+    'dmvjs',
+    'saybackend'
   ];
 
   shuffleArray(ceoImages);
