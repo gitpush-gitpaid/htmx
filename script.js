@@ -208,7 +208,8 @@ document.addEventListener('DOMContentLoaded', () => {
     'BifocalCanvas',
     'tim_bytes',
     'dmvjs',
-    'saybackend'
+    'saybackend',
+    'emperorbafon'
   ];
 
   shuffleArray(ceoImages);
