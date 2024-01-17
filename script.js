@@ -224,7 +224,8 @@ document.addEventListener('DOMContentLoaded', () => {
     'JamesSampica',
     'ericdelia_',
     'tr_twtr',
-    'endingwithali'
+    'endingwithali',
+    'PatrickJS__'
   ];
 
   shuffleArray(ceoImages);
