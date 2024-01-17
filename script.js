@@ -220,7 +220,8 @@ document.addEventListener('DOMContentLoaded', () => {
     'idoshamun',
     'coffeeandcoding',
     'alexogeny',
-    'jemi3i'
+    'jemi3i',
+    'JamesSampica'
   ];
 
   shuffleArray(ceoImages);
