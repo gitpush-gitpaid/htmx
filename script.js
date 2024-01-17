@@ -232,7 +232,10 @@ document.addEventListener('DOMContentLoaded', () => {
     'g_renovales',
     'ShauryaTS',
     'htmxpert',
-    'techdufus'
+    'techdufus',
+    'halfacrelife',
+    'LOKENDE49815194',
+    'MarkusEicher70'
   ];
 
   shuffleArray(ceoImages);
