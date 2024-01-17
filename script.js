@@ -223,7 +223,8 @@ document.addEventListener('DOMContentLoaded', () => {
     'jemi3i',
     'JamesSampica',
     'ericdelia_',
-    'tr_twtr'
+    'tr_twtr',
+    'endingwithali'
   ];
 
   shuffleArray(ceoImages);
