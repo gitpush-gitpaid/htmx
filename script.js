@@ -216,7 +216,8 @@ document.addEventListener('DOMContentLoaded', () => {
     'isaaacme',
     'flinstonedev',
     'panggilmeiam',
-    'vethalik'
+    'vethalik',
+    'idoshamun'
   ];
 
   shuffleArray(ceoImages);
