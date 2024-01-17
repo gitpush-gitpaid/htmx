@@ -236,7 +236,8 @@ document.addEventListener('DOMContentLoaded', () => {
     'halfacrelife',
     'LOKENDE49815194',
     'MarkusEicher70',
-    'WInvincible4397'
+    'WInvincible4397',
+    'CodingGimmic'
   ];
 
   shuffleArray(ceoImages);
