@@ -231,7 +231,8 @@ document.addEventListener('DOMContentLoaded', () => {
     'ohmedays',
     'g_renovales',
     'ShauryaTS',
-    'htmxpert'
+    'htmxpert',
+    'techdufus'
   ];
 
   shuffleArray(ceoImages);
