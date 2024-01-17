@@ -227,7 +227,10 @@ document.addEventListener('DOMContentLoaded', () => {
     'endingwithali',
     'PatrickJS__',
     'MatthewRideout',
-    '2sush'
+    '2sush',
+    'ohmedays',
+    'g_renovales',
+    'ShauryaTS',
   ];
 
   shuffleArray(ceoImages);
