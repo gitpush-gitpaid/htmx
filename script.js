@@ -226,7 +226,8 @@ document.addEventListener('DOMContentLoaded', () => {
     'tr_twtr',
     'endingwithali',
     'PatrickJS__',
-    'MatthewRideout'
+    'MatthewRideout',
+    '2sush'
   ];
 
   shuffleArray(ceoImages);
