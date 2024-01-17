@@ -209,7 +209,11 @@ document.addEventListener('DOMContentLoaded', () => {
     'tim_bytes',
     'dmvjs',
     'saybackend',
-    'emperorbafon'
+    'emperorbafon',
+    'thibaultleouay',
+    'the_shaps',
+    'chrisgrime',
+    'isaaacme'
   ];
 
   shuffleArray(ceoImages);
