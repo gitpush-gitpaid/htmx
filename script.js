@@ -237,7 +237,9 @@ document.addEventListener('DOMContentLoaded', () => {
     'LOKENDE49815194',
     'MarkusEicher70',
     'WInvincible4397',
-    'CodingGimmic'
+    'CodingGimmic',
+    'nilansaha',
+    'FlaggZz'
   ];
 
   shuffleArray(ceoImages);
