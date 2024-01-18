@@ -240,7 +240,8 @@ document.addEventListener('DOMContentLoaded', () => {
     'CodingGimmic',
     'nilansaha',
     'FlaggZz',
-    'Manitcor'
+    'Manitcor',
+    'JasonHessley'
   ];
 
   shuffleArray(ceoImages);
