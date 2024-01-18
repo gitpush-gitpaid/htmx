@@ -250,6 +250,8 @@ document.addEventListener('DOMContentLoaded', () => {
     'ShiriGena',
     'therons',
     'RGBCubed',
+    'RouteNotFound',
+    'destructo570'
   ];
 
   shuffleArray(ceoImages);
