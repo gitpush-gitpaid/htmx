@@ -239,7 +239,8 @@ document.addEventListener('DOMContentLoaded', () => {
     'WInvincible4397',
     'CodingGimmic',
     'nilansaha',
-    'FlaggZz'
+    'FlaggZz',
+    'Manitcor'
   ];
 
   shuffleArray(ceoImages);
