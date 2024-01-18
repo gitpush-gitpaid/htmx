@@ -242,7 +242,9 @@ document.addEventListener('DOMContentLoaded', () => {
     'FlaggZz',
     'Manitcor',
     'JasonHessley',
-    'jeffdaze'
+    'jeffdaze',
+    'parth_webdev',
+    'LifeGetsButter'
   ];
 
   shuffleArray(ceoImages);
