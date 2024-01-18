@@ -248,7 +248,8 @@ document.addEventListener('DOMContentLoaded', () => {
     'kickiniteasy',
     'johnofpaul',
     'ShiriGena',
-    'therons'
+    'therons',
+    'RGBCubed',
   ];
 
   shuffleArray(ceoImages);
