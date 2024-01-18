@@ -249,7 +249,10 @@ document.addEventListener('DOMContentLoaded', () => {
     'johnofpaul',
     'ShiriGena',
     'therons',
-    'RGBCubed', 'RouteNotFound', 'destructo570'
+    'RGBCubed',
+    'RouteNotFound',
+    'destructo570',
+    'xCanto',
   ];
 
   shuffleArray(ceoImages);
