@@ -244,7 +244,10 @@ document.addEventListener('DOMContentLoaded', () => {
     'JasonHessley',
     'jeffdaze',
     'parth_webdev',
-    'LifeGetsButter'
+    'LifeGetsButter',
+    'kickiniteasy',
+    'johnofpaul',
+    'ShiriGena'
   ];
 
   shuffleArray(ceoImages);
