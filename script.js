@@ -253,6 +253,7 @@ document.addEventListener('DOMContentLoaded', () => {
     'RouteNotFound',
     'destructo570',
     'xCanto',
+    'krivaten'
   ];
 
   shuffleArray(ceoImages);
