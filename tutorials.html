@@ -44,6 +44,12 @@
 
       gtag('config', 'G-Y11LZZLM23');
     </script>
+    <script
+      async
+      src="https://platform.twitter.com/widgets.js"
+      charset="utf-8"
+    ></script>
+
     <title>HTMX CEO's | Tutorials</title>
     <link rel="stylesheet" href="./styles.css" />
   </head>
@@ -157,30 +163,7 @@
       <div
         class="px-4 md:px-6 pt-40 md:pt-32 pb-20 flex flex-col justify-center items-center space-y-4"
       >
-        <div class="w-full max-w-[560px] mx-auto" style="min-width: 400px">
-          <div class="relative" style="padding-top: 56.25%">
-            <iframe
-              src="https://www.youtube.com/embed/AOzy44b2gko?si=IgHYhRite5vboXC6"
-              title="YouTube video player"
-              frameborder="0"
-              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-              allowfullscreen
-              class="absolute top-0 left-0 w-full h-full"
-            ></iframe>
-          </div>
-        </div>
-        <div class="w-full max-w-[560px] mx-auto" style="min-width: 400px">
-          <div class="relative" style="padding-top: 56.25%">
-            <iframe
-              src="https://www.youtube.com/embed/0UvA7zvwsmg?si=28EaNIBVbkf8uDk7"
-              title="YouTube video player"
-              frameborder="0"
-              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-              allowfullscreen
-              class="absolute top-0 left-0 w-full h-full"
-            ></iframe>
-          </div>
-        </div>
+        <div id="tutorial-container"></div>
       </div>
     </main>
     <footer class="text-center">
@@ -190,6 +173,6 @@
       </div>
       <p>© 2023-??? Big Money HTMX</p>
     </footer>
-    <script type="module" src="scripts/script.js"></script>
+    <script type="module" src="scripts/tutorial.script.js"></script>
   </body>
 </html>
