@@ -265,4 +265,5 @@ export const ceoList = [
   'AdamPippert',
   'DiademGames',
   'wagieeacc',
+  'jesse_ops',
 ];
