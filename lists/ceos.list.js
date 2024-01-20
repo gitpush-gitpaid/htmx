@@ -268,4 +268,17 @@ export const ceoList = [
   'jesse_ops',
   'largo',
   'athudeosthale',
+  'gambhir_sharma',
+  'TamaghnaCh1',
+  'zmzhaooo',
+  'niemal_dev',
+  'ReinierButot',
+  'neon0x2e',
+  'abhishekdotai',
+  'OnlineSpaceDog',
+  'peer_rich',
+  'Marcus_filipus',
+  '18dixiedean78',
+  'MatteS75',
+  'ImLunaHey'
 ];
