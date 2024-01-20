@@ -259,5 +259,6 @@ export const ceoList = [
   'ElminDev',
   'SudoSuryaa',
   'ruid_io',
-  'CameronPak'
+  'CameronPak',
+  'we4v3r',
 ];
