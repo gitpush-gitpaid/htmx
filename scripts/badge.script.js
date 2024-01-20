@@ -4,7 +4,7 @@ function ceoBadgeBtn() {
   const searchInput = document.getElementById('searchInput');
   const canvas = document.getElementById('ceoCanvas');
   const ctx = canvas.getContext('2d');
-  const searchValue = searchInput.value.toLowerCase();
+  const searchValue = searchInput.value.toLowerCase().trim();
   const canvasSize = 500;
   canvas.width = canvasSize;
   canvas.height = canvasSize;

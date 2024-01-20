@@ -63,11 +63,14 @@ function shuffleArray(array) {
 }
 
 function filterImages() {
-  const searchValue = document.getElementById('findCeo').value.toLowerCase();
+  const searchValue = document
+    .getElementById('findCeo')
+    .value.toLowerCase()
+    .trim();
   const ceoContainer = document.getElementById('ceo-container');
   const images = ceoContainer.querySelectorAll('a');
   images.forEach((image) => {
-    const ceoName = image.querySelector('img').alt.toLowerCase();
+    const ceoName = image.querySelector('img').alt.toLowerCase().trim();
     image.style.display = ceoName.includes(searchValue) ? 'block' : 'none';
   });
 }
