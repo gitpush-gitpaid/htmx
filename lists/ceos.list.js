@@ -262,4 +262,5 @@ export const ceoList = [
   'CameronPak',
   'we4v3r',
   'samathingamajig',
+  'AdamPippert',
 ];
