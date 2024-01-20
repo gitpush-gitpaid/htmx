@@ -285,4 +285,5 @@ export const ceoList = [
   'mateusdeap',
   '06b',
   'metiya_bhaskar',
+  'joer_ixon'
 ];
