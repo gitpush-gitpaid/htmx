@@ -1,106 +1,24 @@
-main {
-  text-align: center;
-}
-
-img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-}
-
-.dollar-sign {
-  width: 100px;
-  height: auto;
-}
-
-.ceo-row {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
-.marquee {
-  overflow: hidden;
-  white-space: nowrap;
-  box-sizing: border-box;
-}
-
-.marquee h1 {
-  display: inline-block;
-  padding-left: 100%;
-  animation: marquee 5s linear infinite;
-}
-
-.htmx-pups {
-  max-width: 500px;
-  height: auto;
-}
-
-#searchInput {
-  padding: 10px 15px;
-  border: 2px solid #ccc;
-  border-radius: 8px;
-  font-size: 16px;
-  margin-bottom: 20px;
-  min-width: 350px;
-}
-
-@keyframes marquee {
-  0% {
-    transform: translateX(0);
-  }
-  100% {
-    transform: translateX(-100%);
-  }
-}
-
-header,
-footer {
-  text-align: center;
-}
-
-.image-container {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-around;
-}
-
-.image-box img {
-  width: 100%;
-  height: auto;
-  border-radius: 10px;
-  transition: transform 0.3s ease, border-radius 0.3s ease;
-}
-
-.image-box:hover img {
-  transform: scale(1.1);
-  border-radius: 10px;
-}
-
-.image-box {
-  flex: 0 0 calc(16.66% - 10px);
-  margin: 5px;
-  box-sizing: border-box;
-  overflow: hidden;
-  position: relative;
-  display: inline-block;
-}
-
-@media (min-width: 601px) and (max-width: 1024px) {
-  .image-box {
-    flex: 0 0 calc(33.33% - 10px); /* For 3 images per row */
-  }
-}
-
-@media (max-width: 600px) {
-  .image-box {
-    flex: 0 0 calc(50% - 10px);
-  }
-}
-
-.text-box {
-  border-top-left-radius: 10px;
+body {
   font-family: 'Rubik';
-  font-size: 14px;
+}
+
+.ceos {
+  font-family: 'Kolker Brush';
+  font-size: 50px;
+  margin: 0;
+  line-height: 1;
+}
+
+.position-title {
+  font-family: 'Kolker Brush';
+  font-size: 150px;
+  font-size: 60px;
+  font-weight: bold;
+  background: linear-gradient(45deg, #00b4d8, #ffffff, #ffa630);
+  color: transparent;
+  background-clip: text;
+  -webkit-background-clip: text;
+  text-fill-color: transparent;
+  -webkit-text-fill-color: transparent;
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.2);
 }
