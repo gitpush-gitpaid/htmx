@@ -258,5 +258,6 @@ export const ceoList = [
   'joshuamaciel',
   'ElminDev',
   'SudoSuryaa',
-  'ruid_io'
+  'ruid_io',
+  'CameronPak'
 ];
