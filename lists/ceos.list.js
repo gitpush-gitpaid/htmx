@@ -292,4 +292,6 @@ export const ceoList = [
   'Quasicodo',
   'panchajanya0608',
   'Subroto0108',
+  'smithbm2316',
+  'nnnoahhhill'
 ];
