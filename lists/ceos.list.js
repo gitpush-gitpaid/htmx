@@ -301,4 +301,5 @@ export const ceoList = [
   'omerienwastaken',
   'goofballLogic',
   'FabrismeGoeland',
+  'noorx1302'
 ];
