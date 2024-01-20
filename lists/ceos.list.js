@@ -281,5 +281,6 @@ export const ceoList = [
   '18dixiedean78',
   'MatteS75',
   'ImLunaHey',
-  'sabine_s_'
+  'sabine_s_',
+  'mateusdeap'
 ];
