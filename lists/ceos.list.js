@@ -303,4 +303,5 @@ export const ceoList = [
   'FabrismeGoeland',
   'noorx1302',
   'c_nk00',
+  'spectre_dev',
 ];
