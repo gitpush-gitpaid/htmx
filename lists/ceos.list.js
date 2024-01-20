@@ -298,5 +298,6 @@ export const ceoList = [
   'Phaceial',
   'epicadidash',
   'jodypm_dev',
-  'omerienwastaken'
+  'omerienwastaken',
+  'goofballLogic',
 ];
