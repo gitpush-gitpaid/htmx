@@ -17,11 +17,11 @@ function ceoBadgeBtn() {
     const img = new Image();
     img.onload = function () {
       ctx.drawImage(img, 0, 0, canvasSize, canvasSize);
-
       const overlayImage = new Image();
       overlayImage.onload = function () {
         ctx.drawImage(overlayImage, 0, 0, canvasSize, canvasSize);
-        createDownloadLink(searchValue); // Create download link
+        transferCanvasToImage();
+        createDownloadLink(searchValue);
       };
       overlayImage.src = 'assets/htmx_border.png';
     };
@@ -33,16 +33,23 @@ function ceoBadgeBtn() {
   }
 }
 
-function createDownloadLink(searchValue) {
+function transferCanvasToImage() {
   const canvas = document.getElementById('ceoCanvas');
-  const jpgUrl = canvas.toDataURL('image/jpeg');
+  const ceoImage = document.getElementById('ceoImage');
+  ceoImage.src = canvas.toDataURL('image/jpeg');
+  ceoImage.style.display = 'block';
+}
+
+function createDownloadLink(searchValue) {
+  const ceoImage = document.getElementById('ceoImage');
+  const jpgUrl = ceoImage.src;
   const filename = `ceo-${searchValue}.jpg`;
 
   const downloadLink = document.getElementById('downloadLink');
   downloadLink.href = jpgUrl;
   downloadLink.download = filename;
   downloadLink.textContent = 'Download Image';
-  downloadLink.style.display = 'block'; // Show the link
+  downloadLink.style.display = 'block';
 }
 
 window.ceoBadgeBtn = ceoBadgeBtn;
