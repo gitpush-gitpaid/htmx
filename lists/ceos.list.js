@@ -261,4 +261,5 @@ export const ceoList = [
   'ruid_io',
   'CameronPak',
   'we4v3r',
+  'samathingamajig',
 ];
