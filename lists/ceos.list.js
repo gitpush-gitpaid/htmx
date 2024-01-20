@@ -263,4 +263,5 @@ export const ceoList = [
   'we4v3r',
   'samathingamajig',
   'AdamPippert',
+  'DiademGames',
 ];
