@@ -21,7 +21,6 @@ function ceoBadgeBtn() {
       overlayImage.onload = function () {
         ctx.drawImage(overlayImage, 0, 0, canvasSize, canvasSize);
         transferCanvasToImage();
-        createDownloadLink(searchValue);
       };
       overlayImage.src = 'assets/htmx_border.png';
     };
@@ -40,18 +39,9 @@ function transferCanvasToImage() {
   ceoImage.style.display = 'block';
 }
 
-function createDownloadLink(searchValue) {
-  const ceoImage = document.getElementById('ceoImage');
-  const jpgUrl = ceoImage.src;
-  const filename = `ceo-${searchValue}.jpg`;
-
-  const downloadLink = document.getElementById('downloadLink');
-  downloadLink.href = jpgUrl;
-  downloadLink.download = filename;
-  downloadLink.textContent = 'Download Image';
-  downloadLink.style.display = 'block';
-}
-
-window.ceoBadgeBtn = ceoBadgeBtn;
-
-document.addEventListener('DOMContentLoaded', () => {});
+document.addEventListener('DOMContentLoaded', () => {
+  const button = document.getElementById('find-ceo-badge-btn'); // Replace with your button's ID
+  if (button) {
+    button.addEventListener('click', ceoBadgeBtn);
+  }
+});
