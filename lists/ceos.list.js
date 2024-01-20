@@ -300,4 +300,5 @@ export const ceoList = [
   'jodypm_dev',
   'omerienwastaken',
   'goofballLogic',
+  'FabrismeGoeland',
 ];
