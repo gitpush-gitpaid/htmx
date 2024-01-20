@@ -267,4 +267,5 @@ export const ceoList = [
   'wagieeacc',
   'jesse_ops',
   'largo',
+  'athudeosthale',
 ];
