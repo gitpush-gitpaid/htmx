@@ -294,5 +294,7 @@ export const ceoList = [
   'Subroto0108',
   'smithbm2316',
   'nnnoahhhill',
-  'alexwilsonv1'
+  'alexwilsonv1',
+  'Phaceial',
+  'epicadidash',
 ];
