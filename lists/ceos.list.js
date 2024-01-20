@@ -252,4 +252,5 @@ export const ceoList = [
   'RouteNotFound',
   'destructo570',
   'xCanto',
+  'krivaten'
 ];
