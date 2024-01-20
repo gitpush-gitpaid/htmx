@@ -289,4 +289,6 @@ export const ceoList = [
   'xkrishguptaa',
   'shubhstwt',
   'jmkodes',
+  'Quasicodo',
+  'panchajanya0608'
 ];
