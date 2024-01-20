@@ -256,4 +256,5 @@ export const ceoList = [
   'lordnarfz0g',
   'sltong_',
   'joshuamaciel',
+  'ElminDev'
 ];
