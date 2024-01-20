@@ -254,5 +254,6 @@ export const ceoList = [
   'xCanto',
   'krivaten',
   'lordnarfz0g',
-  'sltong_'
+  'sltong_',
+  'joshuamaciel',
 ];
