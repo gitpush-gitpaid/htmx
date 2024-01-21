@@ -314,4 +314,5 @@ export const ceoList = [
   'theschnapster',
   'BL42',
   'Ryan_Magoon',
+  'stark__27',
 ];
