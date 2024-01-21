@@ -325,4 +325,5 @@ export const ceoList = [
   'linus1412',
   'aamirv1',
   'chiroTaur',
+  'aryangupta_0001',
 ];
