@@ -329,4 +329,5 @@ export const ceoList = [
   'panditdhamdhere',
   'reynoldsnlp',
   'nstlopez',
+  'ptr_to_joel',
 ];
