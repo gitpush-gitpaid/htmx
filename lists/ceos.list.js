@@ -310,4 +310,5 @@ export const ceoList = [
   'rutamstwt',
   'kinngh',
   'abhishekxix',
+  'AtlantisPleb'
 ];
