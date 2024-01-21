@@ -327,4 +327,5 @@ export const ceoList = [
   'chiroTaur',
   'aryangupta_0001',
   'panditdhamdhere',
+  'reynoldsnlp',
 ];
