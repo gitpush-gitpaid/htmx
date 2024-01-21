@@ -304,4 +304,10 @@ export const ceoList = [
   'noorx1302',
   'c_nk00',
   'spectre_dev',
+  'htmxpickle',
+  'nilundefined',
+  'AndrewRhyand',
+  'rutamstwt',
+  'kinngh',
+  'abhishekxix',
 ];
