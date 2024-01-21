@@ -316,4 +316,13 @@ export const ceoList = [
   'Ryan_Magoon',
   'stark__27',
   'abe__101',
+  'kylesinlynn',
+  'sinanisler',
+  'flaviocopes',
+  'GustavoFoobar',
+  'Nilsdotio',
+  'jay_codes_',
+  'linus1412',
+  'aamirv1',
+  'chiroTaur',
 ];
