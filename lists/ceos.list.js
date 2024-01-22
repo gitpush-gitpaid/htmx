@@ -334,4 +334,5 @@ export const ceoList = [
   '_clintobean',
   'prince_popups',
   'gafemoyano',
+  '0xguv'
 ];
