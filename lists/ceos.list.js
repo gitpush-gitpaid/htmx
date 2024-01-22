@@ -341,5 +341,7 @@ export const ceoList = [
   'NymanJon',
   'devcbenn',
   'rdbodev',
-  'ese_mirror'
+  'ese_mirror',
+  'AmanBabuHemant',
+  'H4z3e_'
 ];
