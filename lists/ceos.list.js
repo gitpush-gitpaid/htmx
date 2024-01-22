@@ -336,4 +336,10 @@ export const ceoList = [
   'gafemoyano',
   '0xguv',
   'anthony_codes',
+  'duncanthedev',
+  '_plutoniumm',
+  'NymanJon',
+  'devcbenn',
+  'rdbodev',
+  'ese_mirror'
 ];
