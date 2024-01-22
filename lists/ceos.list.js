@@ -330,4 +330,5 @@ export const ceoList = [
   'reynoldsnlp',
   'nstlopez',
   'ptr_to_joel',
+  'mickhaelcannon',
 ];
