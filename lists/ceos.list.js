@@ -343,5 +343,6 @@ export const ceoList = [
   'rdbodev',
   'ese_mirror',
   'AmanBabuHemant',
-  'H4z3e_'
+  'H4z3e_',
+  'hsantoyo_sec',
 ];
