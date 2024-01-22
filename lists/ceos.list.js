@@ -331,4 +331,7 @@ export const ceoList = [
   'nstlopez',
   'ptr_to_joel',
   'mickhaelcannon',
+  '_clintobean',
+  'prince_popups',
+  'gafemoyano',
 ];
