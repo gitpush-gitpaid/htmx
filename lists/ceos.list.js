@@ -349,5 +349,6 @@ export const ceoList = [
   'Samashi47',
   'anloupa',
   'aLonewolf_____',
-  'amanat361'
+  'amanat361',
+  'victorbayas',
 ];
