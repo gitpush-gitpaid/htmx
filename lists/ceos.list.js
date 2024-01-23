@@ -364,4 +364,6 @@ export const ceoList = [
   'arthurlch',
   'DMadarasz',
   'OngDevLab',
+  'adnanjpg',
+  'danielmerja',
 ];
