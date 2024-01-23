@@ -366,5 +366,6 @@ export const ceoList = [
   'OngDevLab',
   'adnanjpg',
   'danielmerja',
-  'Jan_DHollander'
+  'Jan_DHollander',
+  'nickmonad',
 ];
