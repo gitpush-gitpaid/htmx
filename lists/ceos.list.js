@@ -363,4 +363,5 @@ export const ceoList = [
   'shkashyap',
   'arthurlch',
   'DMadarasz',
+  'OngDevLab',
 ];
