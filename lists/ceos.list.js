@@ -361,4 +361,6 @@ export const ceoList = [
   'mz_bali',
   'the0mason',
   'shkashyap',
+  'arthurlch',
+  'DMadarasz',
 ];
