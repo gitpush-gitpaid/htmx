@@ -368,4 +368,6 @@ export const ceoList = [
   'danielmerja',
   'Jan_DHollander',
   'nickmonad',
+  'Its_Arjun_India',
+  'YazzzDev',
 ];
