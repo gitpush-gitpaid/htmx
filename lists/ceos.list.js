@@ -370,4 +370,5 @@ export const ceoList = [
   'nickmonad',
   'Its_Arjun_India',
   'YazzzDev',
+  'samarthasthan',
 ];
