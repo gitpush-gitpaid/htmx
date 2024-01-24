@@ -371,4 +371,6 @@ export const ceoList = [
   'Its_Arjun_India',
   'YazzzDev',
   'samarthasthan',
+  'CapableFactory',
+  'srsholmes',
 ];
