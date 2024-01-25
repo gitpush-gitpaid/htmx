@@ -375,4 +375,12 @@ export const ceoList = [
   'srsholmes',
   'alexfwulf',
   'ThePrimeagen',
+  'LispDev',
+  'Narc123456',
+  'Crysre_tamo',
+  'psmith_journo',
+  'svfoxat',
+  'vivekgh0sh',
+  'the_LZAH',
+  'cm_romanov'
 ];
