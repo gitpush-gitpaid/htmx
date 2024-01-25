@@ -374,4 +374,5 @@ export const ceoList = [
   'CapableFactory',
   'srsholmes',
   'alexfwulf',
+  'ThePrimeagen',
 ];
