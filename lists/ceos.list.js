@@ -357,7 +357,7 @@ export const ceoList = [
   '_genjudev',
   '150kiloinvestor',
   'whycantidraw',
-  'kulvir0singh',
+  'kulvirdotgg',
   'mz_bali',
   'the0mason',
   'shkashyap',
@@ -382,5 +382,7 @@ export const ceoList = [
   'svfoxat',
   'vivekgh0sh',
   'the_LZAH',
-  'cm_romanov'
+  'cm_romanov',
+  'pirazgg',
+  'acdesouza'
 ];
