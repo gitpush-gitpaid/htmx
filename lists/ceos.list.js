@@ -389,4 +389,8 @@ export const ceoList = [
   'matthewrossee',
   'npmaile',
   'alec_eletrico17',
+  'twitoftwat',
+  'evergreengineer',
+  'thoaionline',
+  'pnhearer',
 ];
