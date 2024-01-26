@@ -384,5 +384,6 @@ export const ceoList = [
   'the_LZAH',
   'cm_romanov',
   'pirazgg',
-  'acdesouza'
+  'acdesouza',
+  'sergiosopolar',
 ];
