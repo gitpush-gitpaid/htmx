@@ -386,4 +386,7 @@ export const ceoList = [
   'pirazgg',
   'acdesouza',
   'sergiosopolar',
+  'matthewrossee',
+  'npmaile',
+  'alec_eletrico17',
 ];
