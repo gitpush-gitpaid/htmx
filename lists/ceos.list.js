@@ -393,4 +393,5 @@ export const ceoList = [
   'evergreengineer',
   'thoaionline',
   'pnhearer',
+  'heyjorgedev',
 ];
