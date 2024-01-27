@@ -398,4 +398,7 @@ export const ceoList = [
   'Ellisarion',
   'mjovanc',
   'SoloRogue',
+  'TimBarley',
+  'realsnipc',
+  'udaykumartweets',
 ];
