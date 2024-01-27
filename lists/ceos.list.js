@@ -397,4 +397,5 @@ export const ceoList = [
   'amaan8429',
   'Ellisarion',
   'mjovanc',
+  'SoloRogue',
 ];
