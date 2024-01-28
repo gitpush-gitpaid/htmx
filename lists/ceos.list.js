@@ -401,4 +401,6 @@ export const ceoList = [
   'TimBarley',
   'realsnipc',
   'udaykumartweets',
+  'Mohaidoss',
+  'Ubajoseph_u',
 ];
