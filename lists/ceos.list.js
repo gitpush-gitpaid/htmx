@@ -408,4 +408,7 @@ export const ceoList = [
   'lucas_sproule',
   'crypdoughdoteth',
   'SanityCS_',
+  'iliassjabali',
+  'imshivansh_u',
+  'HaimantikaM',
 ];
