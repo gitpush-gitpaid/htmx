@@ -404,4 +404,8 @@ export const ceoList = [
   'Mohaidoss',
   'Ubajoseph_u',
   'piq9117',
+  '0xdeafc0de',
+  'lucas_sproule',
+  'crypdoughdoteth',
+  'SanityCS_',
 ];
