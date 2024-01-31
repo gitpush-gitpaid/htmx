@@ -418,5 +418,8 @@ export const ceoList = [
   'nshravanr',
   'nora26056',
   'sjparam',
-  'sarbeh_'
+  'sarbeh_',
+  'benallen_dev',
+  'sztolabs',
+  'anthony_hagi',
 ];
