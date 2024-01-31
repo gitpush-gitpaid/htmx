@@ -411,4 +411,7 @@ export const ceoList = [
   'iliassjabali',
   'imshivansh_u',
   'HaimantikaM',
+  'FavouriteJome1',
+  'helloAbhishekk',
+  '__r17x',
 ];
