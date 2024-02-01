@@ -429,4 +429,5 @@ export const ceoList = [
   '1196MayBur',
   'longngo0924',
   'afrian_junior',
+  'joeldrapper'
 ];
