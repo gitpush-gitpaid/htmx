@@ -422,4 +422,11 @@ export const ceoList = [
   'benallen_dev',
   'sztolabs',
   'anthony_hagi',
+  'dimeji_dev',
+  'RadhiH1',
+  'plamp555',
+  'knight15_11',
+  '1196MayBur',
+  'longngo0924',
+  'afrian_junior',
 ];
