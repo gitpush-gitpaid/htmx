@@ -431,4 +431,6 @@ export const ceoList = [
   'afrian_junior',
   'joeldrapper',
   'JSeverasse',
+  'vermacodes',
+  'imick_io',
 ];
