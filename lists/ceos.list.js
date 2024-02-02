@@ -438,4 +438,5 @@ export const ceoList = [
   'red_resfe',
   'sachinbee',
   'craigabourne',
+  'ziademarcus',
 ];
