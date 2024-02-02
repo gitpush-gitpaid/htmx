@@ -436,5 +436,6 @@ export const ceoList = [
   'The_Prologuist',
   'chrislaupama',
   'red_resfe',
-  'sachinbee'
+  'sachinbee',
+  'craigabourne',
 ];
