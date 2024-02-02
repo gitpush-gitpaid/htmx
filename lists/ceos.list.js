@@ -270,7 +270,7 @@ export const ceoList = [
   'athudeosthale',
   'gambhir_sharma',
   'TamaghnaCh1',
-  'zmzhaooo',
+  'zmzlois',
   'niemal_dev',
   'ReinierButot',
   'neon0x2e',
