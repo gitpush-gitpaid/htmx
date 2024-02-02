@@ -434,4 +434,6 @@ export const ceoList = [
   'vermacodes',
   'imick_io',
   'The_Prologuist',
+  'chrislaupama',
+  'red_resfe',
 ];
