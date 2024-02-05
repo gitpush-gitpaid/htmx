@@ -454,4 +454,5 @@ export const ceoList = [
   'Kush_238',
   'wwwicked',
   'realreppard',
+  'MiguelSarenas',
 ];
