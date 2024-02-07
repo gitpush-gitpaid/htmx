@@ -456,4 +456,7 @@ export const ceoList = [
   'realreppard',
   'MiguelSarenas',
   'cpplain',
+  'Colinahscopy',
+  'onehalt_app',
+  'yemel_t',
 ];
