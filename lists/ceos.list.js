@@ -459,4 +459,5 @@ export const ceoList = [
   'Colinahscopy',
   'onehalt_app',
   'yemel_t',
+  'airesearch12',
 ];
