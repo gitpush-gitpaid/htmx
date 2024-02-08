@@ -460,4 +460,5 @@ export const ceoList = [
   'onehalt_app',
   'yemel_t',
   'airesearch12',
+  'zingzy3',
 ];
