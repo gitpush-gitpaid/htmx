@@ -461,4 +461,6 @@ export const ceoList = [
   'yemel_t',
   'airesearch12',
   'zingzy3',
+  'what_the_func',
+  'bradgessler',
 ];
