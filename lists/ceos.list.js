@@ -463,4 +463,7 @@ export const ceoList = [
   'zingzy3',
   'what_the_func',
   'bradgessler',
+  'abhi_ndtech',
+  'twtSujaL',
+  'shyynux',
 ];
