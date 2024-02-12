@@ -466,4 +466,10 @@ export const ceoList = [
   'abhi_ndtech',
   'twtSujaL',
   'shyynux',
+  'VaniaPopovic',
+  'apitrove',
+  'bujache',
+  'aftabalam507',
+  'CodesKae',
+  'DeclowCEO',
 ];
