@@ -474,4 +474,5 @@ export const ceoList = [
   'DeclowCEO',
   'RuslanSys5',
   'Typing_Tech',
+  'jody_lecompte',
 ];
