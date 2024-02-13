@@ -473,4 +473,5 @@ export const ceoList = [
   'CodesKae',
   'DeclowCEO',
   'RuslanSys5',
+  'Typing_Tech',
 ];
