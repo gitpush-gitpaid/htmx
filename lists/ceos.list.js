@@ -475,4 +475,6 @@ export const ceoList = [
   'RuslanSys5',
   'Typing_Tech',
   'jody_lecompte',
+  'YuriiNot',
+  'dbxdigital',
 ];
