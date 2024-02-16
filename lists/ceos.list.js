@@ -478,4 +478,5 @@ export const ceoList = [
   'YuriiNot',
   'dbxdigital',
   'garymevs',
+  'Shoenice222222',
 ];
