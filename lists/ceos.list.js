@@ -485,4 +485,7 @@ export const ceoList = [
   'rdehuyss',
   'cheddybop',
   'DelisIgib',
+  'devkrissx',
+  '0xSaksham',
+  'SedRicKCZ',
 ];
