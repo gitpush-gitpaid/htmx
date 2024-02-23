@@ -488,4 +488,6 @@ export const ceoList = [
   'devkrissx',
   '0xSaksham',
   'SedRicKCZ',
+  'CyberManiacc',
+  'vas3k',
 ];
