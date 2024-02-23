@@ -490,4 +490,5 @@ export const ceoList = [
   'SedRicKCZ',
   'CyberManiacc',
   'vas3k',
+  '_basileus_',
 ];
