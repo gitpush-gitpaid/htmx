@@ -495,4 +495,6 @@ export const ceoList = [
   'AhDi_1280',
   'dluzar',
   'xhand98',
+  'el1zav3tv',
+  'd86leader',
 ];
