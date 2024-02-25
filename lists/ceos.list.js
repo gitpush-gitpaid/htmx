@@ -494,4 +494,5 @@ export const ceoList = [
   'jameslcowan',
   'AhDi_1280',
   'dluzar',
+  'xhand98',
 ];
