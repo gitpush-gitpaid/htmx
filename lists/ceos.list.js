@@ -499,4 +499,6 @@ export const ceoList = [
   'd86leader',
   'wtcdm',
   'its_ShubhamK',
+  'ObjCandTwits',
+  'timo_rf',
 ];
