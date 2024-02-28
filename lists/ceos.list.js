@@ -501,4 +501,5 @@ export const ceoList = [
   'its_ShubhamK',
   'ObjCandTwits',
   'timo_rf',
+  'almightyshivang',
 ];
