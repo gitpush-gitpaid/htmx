@@ -504,4 +504,5 @@ export const ceoList = [
   'almightyshivang',
   'DanielGlejzner',
   '0xpraveen',
+  'kyle_o',
 ];
