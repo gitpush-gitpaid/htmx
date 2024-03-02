@@ -506,4 +506,8 @@ export const ceoList = [
   '0xpraveen',
   'kyle_o',
   '_charyan',
+  'BertoConde',
+  'oyee_amitt',
+  'austinsamsel',
+  'ZisanZeee,',
 ];
