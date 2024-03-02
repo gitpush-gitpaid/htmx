@@ -509,5 +509,5 @@ export const ceoList = [
   'BertoConde',
   'oyee_amitt',
   'austinsamsel',
-  'ZisanZeee,',
+  'ZisanZeee',
 ];
