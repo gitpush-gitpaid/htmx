@@ -510,4 +510,9 @@ export const ceoList = [
   'oyee_amitt',
   'austinsamsel',
   'ZisanZeee',
+  'mikeLapla',
+  'SteveHere255',
+  '7h3_360l355_d3v',
+  'angular2react',
+  'barbudour',
 ];
