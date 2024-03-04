@@ -516,4 +516,6 @@ export const ceoList = [
   'angular2react',
   'barbudour',
   '___otowa',
+  'Pr0Ger',
+  'boidushya',
 ];
