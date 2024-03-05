@@ -518,4 +518,5 @@ export const ceoList = [
   '___otowa',
   'Pr0Ger',
   'boidushya',
+  '__IanWright__',
 ];
