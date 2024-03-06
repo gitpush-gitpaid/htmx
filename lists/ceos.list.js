@@ -519,4 +519,5 @@ export const ceoList = [
   'Pr0Ger',
   'boidushya',
   '__IanWright__',
+  'ayushanandhd',
 ];
