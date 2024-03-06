@@ -522,4 +522,5 @@ export const ceoList = [
   'ayushanandhd',
   'KaluNight',
   'TypeErrorX',
+  'DAN_GLIESAQ',
 ];
