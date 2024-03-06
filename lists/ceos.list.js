@@ -521,4 +521,5 @@ export const ceoList = [
   '__IanWright__',
   'ayushanandhd',
   'KaluNight',
+  'TypeErrorX',
 ];
