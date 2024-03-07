@@ -523,5 +523,5 @@ export const ceoList = [
   'KaluNight',
   'TypeErrorX',
   'DAN_GLIESAQ',
-  'aldicodes,',
+  'aldicodes',
 ];
