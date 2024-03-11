@@ -524,4 +524,7 @@ export const ceoList = [
   'TypeErrorX',
   'DAN_GLIESAQ',
   'aldicodes',
+  'WillHleucka',
+  'SoVeryCuul',
+  'eliteplayzXD',
 ];
