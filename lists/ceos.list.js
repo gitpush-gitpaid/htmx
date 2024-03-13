@@ -527,4 +527,5 @@ export const ceoList = [
   'WillHleucka',
   'SoVeryCuul',
   'eliteplayzXD',
+  'flaticols',
 ];
