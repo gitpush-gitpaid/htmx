@@ -529,4 +529,5 @@ export const ceoList = [
   'eliteplayzXD',
   'flaticols',
   'arjenbrouwert',
+  'MamoorJaanKhan',
 ];
