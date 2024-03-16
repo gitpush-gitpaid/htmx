@@ -530,4 +530,6 @@ export const ceoList = [
   'flaticols',
   'arjenbrouwert',
   'MamoorJaanKhan',
+  'oyepriyansh',
+  'hiten_codes',
 ];
