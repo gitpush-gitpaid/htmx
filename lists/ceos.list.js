@@ -532,4 +532,6 @@ export const ceoList = [
   'MamoorJaanKhan',
   'oyepriyansh',
   'hiten_codes',
+  'GuruPawar02',
+  'Taskinoz',
 ];
