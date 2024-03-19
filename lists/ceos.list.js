@@ -534,4 +534,6 @@ export const ceoList = [
   'hiten_codes',
   'GuruPawar02',
   'Taskinoz',
+  'Sandah',
+  'traxdata88',
 ];
