@@ -536,4 +536,5 @@ export const ceoList = [
   'Taskinoz',
   'Sandah',
   'traxdata88',
+  'programmerByDay',
 ];
