@@ -537,4 +537,6 @@ export const ceoList = [
   'Sandah',
   'traxdata88',
   'programmerByDay',
+  'rithulkamesh',
+  'rustylass102008',
 ];
