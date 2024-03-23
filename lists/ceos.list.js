@@ -539,4 +539,5 @@ export const ceoList = [
   'programmerByDay',
   'rithulkamesh',
   'rustylass102008',
+  'note_pass',
 ];
