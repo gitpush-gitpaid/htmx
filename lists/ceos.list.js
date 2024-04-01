@@ -541,4 +541,5 @@ export const ceoList = [
   'rustylass102008',
   'note_pass',
   'ex_raritas',
+  'ashdotsol',
 ];
