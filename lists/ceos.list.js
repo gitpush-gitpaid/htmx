@@ -543,4 +543,5 @@ export const ceoList = [
   'ex_raritas',
   'ashdotsol',
   'tahacodes',
+  'kaisersacha',
 ];
