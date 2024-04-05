@@ -545,4 +545,6 @@ export const ceoList = [
   'tahacodes',
   'kaisersacha',
   'SactoCTF',
+  'flpmrksn',
+  'ColtonIdle',
 ];
