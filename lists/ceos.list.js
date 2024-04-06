@@ -547,4 +547,6 @@ export const ceoList = [
   'SactoCTF',
   'flpmrksn',
   'ColtonIdle',
+  'Brycicle77',
+  'ErnestGrz',
 ];
