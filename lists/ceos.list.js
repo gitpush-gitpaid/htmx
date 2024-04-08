@@ -552,4 +552,5 @@ export const ceoList = [
   'ChrisDeeBrown',
   'salttoday',
   'i_kishan_',
+  '___GOA7___',
 ];
