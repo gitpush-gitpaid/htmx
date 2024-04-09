@@ -131,7 +131,7 @@ export const ceoList = [
   'rickhanlonii',
   'ampyourgrowth',
   'alexcberk',
-  'tt_kb_',
+  'timteee_',
   'zenhorace',
   'Fer_S73',
   'TheDanVail',
@@ -554,4 +554,5 @@ export const ceoList = [
   'i_kishan_',
   '___GOA7___',
   'webdevcody',
+  'jqwez',
 ];
