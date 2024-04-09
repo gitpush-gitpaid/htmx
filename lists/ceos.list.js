@@ -553,4 +553,5 @@ export const ceoList = [
   'salttoday',
   'i_kishan_',
   '___GOA7___',
+  'webdevcody',
 ];
