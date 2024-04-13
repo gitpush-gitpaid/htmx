@@ -556,4 +556,5 @@ export const ceoList = [
   'webdevcody',
   'jqwez',
   'CWood_sdf',
+  'KhazAkar',
 ];
