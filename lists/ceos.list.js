@@ -561,4 +561,5 @@ export const ceoList = [
   'vkpdeveloper',
   'olipiskandar',
   'gourav__goyat',
+  'ahmadalfy',
 ];
