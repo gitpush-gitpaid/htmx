@@ -567,4 +567,5 @@ export const ceoList = [
   'isynthx',
   'kemboiray717',
   'netaneldotdev',
+  'DislexycMonkey',
 ];
