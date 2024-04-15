@@ -563,4 +563,5 @@ export const ceoList = [
   'gourav__goyat',
   'ahmadalfy',
   'Sixstring982',
+  'ampersandjoseph',
 ];
