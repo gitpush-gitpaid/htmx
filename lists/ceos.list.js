@@ -560,4 +560,5 @@ export const ceoList = [
   'Misba8069',
   'vkpdeveloper',
   'olipiskandar',
+  'gourav__goyat',
 ];
