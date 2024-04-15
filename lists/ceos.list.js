@@ -565,4 +565,6 @@ export const ceoList = [
   'Sixstring982',
   'ampersandjoseph',
   'isynthx',
+  'kemboiray717',
+  'netaneldotdev',
 ];
