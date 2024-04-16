@@ -572,4 +572,5 @@ export const ceoList = [
   'andrsbtrg',
   'catwavess',
   'GrugNotes',
+  'CoyoteCryptic',
 ];
