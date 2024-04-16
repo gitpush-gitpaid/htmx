@@ -571,4 +571,5 @@ export const ceoList = [
   'hansiboy1999',
   'andrsbtrg',
   'catwavess',
+  'GrugNotes',
 ];
