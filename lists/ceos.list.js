@@ -573,4 +573,10 @@ export const ceoList = [
   'catwavess',
   'GrugNotes',
   'CoyoteCryptic',
+  'UsingMatt',
+  'pbentesio',
+  'joelrealubit',
+  'martin_nav_',
+  'thilojaeggi',
+  'nihadbadalov1',
 ];
