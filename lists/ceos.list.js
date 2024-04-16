@@ -570,4 +570,5 @@ export const ceoList = [
   'DislexycMonkey',
   'hansiboy1999',
   'andrsbtrg',
+  'catwavess',
 ];
