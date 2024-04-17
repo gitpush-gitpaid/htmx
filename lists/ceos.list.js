@@ -583,4 +583,5 @@ export const ceoList = [
   'Arussil',
   'gud_mornign',
   'kaalxian',
+  'mborus',
 ];
