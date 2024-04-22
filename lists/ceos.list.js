@@ -584,4 +584,5 @@ export const ceoList = [
   'gud_mornign',
   'kaalxian',
   'mborus',
+  'DanielRiz6',
 ];
