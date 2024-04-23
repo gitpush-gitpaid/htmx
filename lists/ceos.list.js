@@ -586,4 +586,6 @@ export const ceoList = [
   'mborus',
   'DanielRiz6',
   'Adnan_Jindani',
+  'maxgorfer',
+  'gustafik_dev',
 ];
