@@ -588,4 +588,5 @@ export const ceoList = [
   'Adnan_Jindani',
   'maxgorfer',
   'gustafik_dev',
+  '___rajdeep',
 ];
