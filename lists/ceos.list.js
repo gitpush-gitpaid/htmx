@@ -589,4 +589,5 @@ export const ceoList = [
   'maxgorfer',
   'gustafik_dev',
   '___rajdeep',
+  'unsignedDigit',
 ];
