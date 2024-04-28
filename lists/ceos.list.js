@@ -590,4 +590,5 @@ export const ceoList = [
   'gustafik_dev',
   '___rajdeep',
   'unsignedDigit',
+  'jamonholmgren',
 ];
