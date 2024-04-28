@@ -591,4 +591,5 @@ export const ceoList = [
   '___rajdeep',
   'unsignedDigit',
   'jamonholmgren',
+  'amacarthur',
 ];
