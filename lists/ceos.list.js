@@ -592,4 +592,5 @@ export const ceoList = [
   'unsignedDigit',
   'jamonholmgren',
   'amacarthur',
+  'PineapplesDev',
 ];
