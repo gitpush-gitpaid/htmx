@@ -594,4 +594,5 @@ export const ceoList = [
   'amacarthur',
   'PineapplesDev',
   'Drane_One',
+  'rioLi0N',
 ];
