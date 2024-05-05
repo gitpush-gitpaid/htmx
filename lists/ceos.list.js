@@ -596,4 +596,5 @@ export const ceoList = [
   'Drane_One',
   'rioLi0N',
   'MuhammadN_twts',
+  'siddharthastwt',
 ];
