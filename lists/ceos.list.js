@@ -597,4 +597,5 @@ export const ceoList = [
   'rioLi0N',
   'MuhammadN_twts',
   'siddharthastwt',
+  'ritwickdsouza',
 ];
