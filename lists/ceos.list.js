@@ -600,4 +600,5 @@ export const ceoList = [
   'ritwickdsouza',
   'rauchg',
   'ElEmiCodes',
+  'j_bailey93',
 ];
