@@ -601,4 +601,6 @@ export const ceoList = [
   'rauchg',
   'ElEmiCodes',
   'j_bailey93',
+  'faultables',
+  'punchingcat',
 ];
