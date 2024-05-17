@@ -605,4 +605,5 @@ export const ceoList = [
   'punchingcat',
   'MelkeyDev',
   'branmcconnell',
+  'sawaratsuki1004',
 ];
