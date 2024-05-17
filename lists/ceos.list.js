@@ -606,4 +606,6 @@ export const ceoList = [
   'MelkeyDev',
   'branmcconnell',
   'sawaratsuki1004',
+  'Delta2315',
+  'vampireneo',
 ];
