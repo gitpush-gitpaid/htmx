@@ -612,4 +612,7 @@ export const ceoList = [
   'notdeliable',
   'DnnsRhbhn',
   'risavkarna',
+  'sorendebois',
+  'DaInfLoop',
+  'ayakaui234',
 ];
