@@ -611,4 +611,5 @@ export const ceoList = [
   'raidesuuu',
   'notdeliable',
   'DnnsRhbhn',
+  'risavkarna',
 ];
