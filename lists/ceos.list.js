@@ -609,4 +609,5 @@ export const ceoList = [
   'Delta2315',
   'vampireneo',
   'raidesuuu',
+  'notdeliable',
 ];
