@@ -608,4 +608,5 @@ export const ceoList = [
   'sawaratsuki1004',
   'Delta2315',
   'vampireneo',
+  'raidesuuu',
 ];
