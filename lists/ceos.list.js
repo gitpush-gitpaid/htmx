@@ -610,4 +610,5 @@ export const ceoList = [
   'vampireneo',
   'raidesuuu',
   'notdeliable',
+  'DnnsRhbhn',
 ];
