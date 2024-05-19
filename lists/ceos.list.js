@@ -619,4 +619,5 @@ export const ceoList = [
   'the3krak3n',
   'rituraj__18',
   'ajaymagan',
+  'lokiavenger',
 ];
