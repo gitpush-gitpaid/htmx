@@ -617,4 +617,5 @@ export const ceoList = [
   'ayakaui234',
   'colhountech',
   'the3krak3n',
+  'rituraj__18',
 ];
