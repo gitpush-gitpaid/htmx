@@ -615,4 +615,6 @@ export const ceoList = [
   'sorendebois',
   'DaInfLoop',
   'ayakaui234',
+  'colhountech',
+  'the3krak3n',
 ];
