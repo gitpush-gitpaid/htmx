@@ -626,4 +626,5 @@ export const ceoList = [
   'Wahlstra',
   '44arth',
   'mgaroz_pro',
+  'kranzforce',
 ];
