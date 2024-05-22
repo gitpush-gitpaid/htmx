@@ -629,4 +629,5 @@ export const ceoList = [
   'kranzforce',
   'TheDanKToday',
   'alister_b',
+  'odinthenerd',
 ];
