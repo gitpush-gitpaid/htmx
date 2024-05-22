@@ -622,4 +622,8 @@ export const ceoList = [
   'lokiavenger',
   'theanarchox',
   't3dotgg',
+  'muneeb_isme',
+  'Wahlstra',
+  '44arth',
+  'mgaroz_pro',
 ];
