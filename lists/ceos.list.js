@@ -627,4 +627,6 @@ export const ceoList = [
   '44arth',
   'mgaroz_pro',
   'kranzforce',
+  'TheDanKToday',
+  'alister_b',
 ];
