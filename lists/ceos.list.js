@@ -632,4 +632,6 @@ export const ceoList = [
   'odinthenerd',
   'tiagopotencia',
   'heysubinoy',
+  '_iUseArchBtw',
+  'ada_closure',
 ];
