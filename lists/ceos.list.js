@@ -634,4 +634,5 @@ export const ceoList = [
   'heysubinoy',
   '_iUseArchBtw',
   'ada_closure',
+  'House_Paint',
 ];
