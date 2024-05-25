@@ -635,4 +635,6 @@ export const ceoList = [
   '_iUseArchBtw',
   'ada_closure',
   'House_Paint',
+  'i_am_m_maz',
+  'Marcuslkm',
 ];
