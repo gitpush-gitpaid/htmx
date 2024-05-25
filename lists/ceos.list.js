@@ -638,4 +638,5 @@ export const ceoList = [
   'i_am_m_maz',
   'Marcuslkm',
   'benpiroman',
+  'alexaka1',
 ];
