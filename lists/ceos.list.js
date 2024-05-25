@@ -646,4 +646,5 @@ export const ceoList = [
   'rsromanowski',
   'ribeiroeder',
   'BilalKureshi6',
+  'RaulComeGalleta',
 ];
