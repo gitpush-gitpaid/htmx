@@ -649,4 +649,5 @@ export const ceoList = [
   'RaulComeGalleta',
   'rybeyroX',
   'Rawa2ah',
+  'd3rpp_dev',
 ];
