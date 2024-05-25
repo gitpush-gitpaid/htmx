@@ -644,4 +644,5 @@ export const ceoList = [
   'yidxte',
   'qnotmore',
   'rsromanowski',
+  'ribeiroeder',
 ];
