@@ -650,4 +650,8 @@ export const ceoList = [
   'rybeyroX',
   'Rawa2ah',
   'd3rpp_dev',
+  'PB01018946',
+  'Nader7x',
+  'theSaintKappa',
+  'gnegneel',
 ];
