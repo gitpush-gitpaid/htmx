@@ -658,4 +658,5 @@ export const ceoList = [
   'grd_arguelles',
   'huwdev',
   'JessSaez15',
+  '0x61nas',
 ];
