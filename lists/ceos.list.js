@@ -656,4 +656,6 @@ export const ceoList = [
   'gnegneel',
   'gagiotter',
   'grd_arguelles',
+  'huwdev',
+  'JessSaez15',
 ];
