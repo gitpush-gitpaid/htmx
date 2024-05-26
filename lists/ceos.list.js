@@ -654,4 +654,5 @@ export const ceoList = [
   'Nader7x',
   'theSaintKappa',
   'gnegneel',
+  'gagiotter',
 ];
