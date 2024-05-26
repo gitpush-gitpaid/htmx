@@ -655,4 +655,5 @@ export const ceoList = [
   'theSaintKappa',
   'gnegneel',
   'gagiotter',
+  'grd_arguelles',
 ];
