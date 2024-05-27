@@ -661,4 +661,7 @@ export const ceoList = [
   '0x61nas',
   'danielmihai34',
   'tollyferro',
+  'SluisJesper',
+  'faermanj',
+  'ek__79',
 ];
