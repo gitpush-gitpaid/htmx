@@ -689,4 +689,12 @@ export const ceoList = [
   'shadin_mhd',
   'futuretrees1',
   'jbabineau',
+  'TheBasedCannon',
+  'mSykeCodes',
+  'Graham83962945',
+  'codingCurran',
+  'TheDevChance',
+  'erewhon',
+  '__technologic',
+  'ProgramMax',
 ];
