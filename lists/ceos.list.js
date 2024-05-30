@@ -697,4 +697,12 @@ export const ceoList = [
   'erewhon',
   '__technologic',
   'ProgramMax',
+  'laceperro',
+  'jan_siepmann',
+  'FNietso',
+  'AndrewJacksonZA',
+  'nilswloewen',
+  '4E4F57',
+  'kigibek',
+  'josepdecid',
 ];
