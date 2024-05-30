@@ -682,4 +682,11 @@ export const ceoList = [
   'BryanSkalski',
   'DysaxDev',
   'pascauuu',
+  'RobertCraynon',
+  'lambsop',
+  'dany_spatch',
+  'abdullah_wc',
+  'shadin_mhd',
+  'futuretrees1',
+  'jbabineau',
 ];
