@@ -666,4 +666,10 @@ export const ceoList = [
   'ek__79',
   'ronkorving',
   'backpropblues',
+  'thetrudel',
+  'Unlucky_JLuc',
+  'Wooltard',
+  'HubertBosiacki',
+  'TheRealNikR',
+  'MounirTaouafe97',
 ];
