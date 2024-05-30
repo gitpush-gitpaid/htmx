@@ -677,4 +677,9 @@ export const ceoList = [
   'mihaisafta_',
   'alxwnth',
   'mirashif1',
+  'thundron91',
+  'frectonz',
+  'BryanSkalski',
+  'DysaxDev',
+  'pascauuu',
 ];
