@@ -705,4 +705,6 @@ export const ceoList = [
   '4E4F57',
   'kigibek',
   'josepdecid',
+  'lukpr0',
+  'ReelEyezRealise',
 ];
