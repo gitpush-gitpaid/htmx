@@ -665,4 +665,5 @@ export const ceoList = [
   'faermanj',
   'ek__79',
   'ronkorving',
+  'backpropblues',
 ];
