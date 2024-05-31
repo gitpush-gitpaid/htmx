@@ -729,4 +729,5 @@ export const ceoList = [
   'hjalves',
   'LosmanDev',
   'mfweof',
+  'tusharisanerd',
 ];
