@@ -721,4 +721,7 @@ export const ceoList = [
   'rmansueli',
   'PythonChess',
   'iCyklan',
+  'aderrick318',
+  'chauncey',
+  'jonryanedge',
 ];
