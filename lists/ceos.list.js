@@ -712,4 +712,13 @@ export const ceoList = [
   'ArgentumCation',
   'Harsha1306_',
   'ouzydev',
+  'snobbysteven',
+  'StephaneTrebel',
+  'krystof_rehacek',
+  'ThanosPapathan',
+  'tyronjesper',
+  'SylvianROPERT',
+  'rmansueli',
+  'PythonChess',
+  'iCyklan',
 ];
