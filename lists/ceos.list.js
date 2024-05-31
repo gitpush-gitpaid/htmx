@@ -725,4 +725,7 @@ export const ceoList = [
   'chauncey',
   'jonryanedge',
   'sloqus',
+  'unx_dev',
+  'hjalves',
+  'LosmanDev',
 ];
