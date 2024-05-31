@@ -711,4 +711,5 @@ export const ceoList = [
   'jpjust',
   'ArgentumCation',
   'Harsha1306_',
+  'ouzydev',
 ];
