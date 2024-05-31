@@ -709,4 +709,6 @@ export const ceoList = [
   'ReelEyezRealise',
   'Julio_Build',
   'jpjust',
+  'ArgentumCation',
+  'Harsha1306_',
 ];
