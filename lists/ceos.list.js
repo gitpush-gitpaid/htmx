@@ -730,4 +730,8 @@ export const ceoList = [
   'LosmanDev',
   'mfweof',
   'tusharisanerd',
+  'AmaMeMieXC',
+  'inthevibedev',
+  'gutolanjoni',
+  'dev_VictorRb',
 ];
