@@ -734,4 +734,6 @@ export const ceoList = [
   'inthevibedev',
   'gutolanjoni',
   'dev_VictorRb',
+  'snurre',
+  'syakhiskk',
 ];
