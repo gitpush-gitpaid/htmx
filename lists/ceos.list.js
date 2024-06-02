@@ -736,4 +736,7 @@ export const ceoList = [
   'dev_VictorRb',
   'snurre',
   'syakhiskk',
+  'icanvardar',
+  'theblushirtdude',
+  'bloodearnest',
 ];
