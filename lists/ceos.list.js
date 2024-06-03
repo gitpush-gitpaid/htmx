@@ -740,4 +740,5 @@ export const ceoList = [
   'theblushirtdude',
   'bloodearnest',
   'mike_ifeelfree',
+  'TheJoshDerocher',
 ];
