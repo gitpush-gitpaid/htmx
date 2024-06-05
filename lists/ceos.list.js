@@ -752,4 +752,5 @@ export const ceoList = [
   'TECHNIQUEWORD',
   'prbhtkumr',
   'mkashkin',
+  'johnny5th',
 ];
