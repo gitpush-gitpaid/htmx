@@ -748,4 +748,6 @@ export const ceoList = [
   'espinacs',
   'parra_dev',
   'HJM9x',
+  'xakpc',
+  'TECHNIQUEWORD',
 ];
