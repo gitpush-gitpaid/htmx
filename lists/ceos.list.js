@@ -756,4 +756,5 @@ export const ceoList = [
   'AverageProMax',
   'tschuehly',
   'SearcherEye',
+  'andrei_netoiu',
 ];
