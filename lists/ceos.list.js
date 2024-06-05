@@ -753,4 +753,5 @@ export const ceoList = [
   'prbhtkumr',
   'mkashkin',
   'johnny5th',
+  'AverageProMax',
 ];
