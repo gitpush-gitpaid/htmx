@@ -758,4 +758,5 @@ export const ceoList = [
   'SearcherEye',
   'andrei_netoiu',
   'CodedByShoe',
+  'g0ksan',
 ];
