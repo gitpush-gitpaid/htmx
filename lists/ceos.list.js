@@ -762,4 +762,5 @@ export const ceoList = [
   'TaylorBerukoff',
   'CasperEngl',
   'chrisbward',
+  'MaxClerkwell',
 ];
