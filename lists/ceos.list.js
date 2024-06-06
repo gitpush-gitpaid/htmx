@@ -759,4 +759,5 @@ export const ceoList = [
   'andrei_netoiu',
   'CodedByShoe',
   'g0ksan',
+  'TaylorBerukoff',
 ];
