@@ -760,4 +760,6 @@ export const ceoList = [
   'CodedByShoe',
   'g0ksan',
   'TaylorBerukoff',
+  'CasperEngl',
+  'chrisbward',
 ];
