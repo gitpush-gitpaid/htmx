@@ -772,4 +772,10 @@ export const ceoList = [
   'ktappdev',
   'mroyme',
   'DiegoxKa',
+  'jjboise',
+  'blister',
+  'NikitaF34470494',
+  'joaodocodigo',
+  'Selfie_Made_Man',
+  'dan_harper',
 ];
