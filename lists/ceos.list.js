@@ -766,4 +766,10 @@ export const ceoList = [
   'NightshadeDude',
   'saugardev',
   'bloch_gaetan',
+  'realJmonkey',
+  'DanielMuringe',
+  'JessyNyny',
+  'ktappdev',
+  'mroyme',
+  'DiegoxKa',
 ];
