@@ -779,4 +779,7 @@ export const ceoList = [
   'Selfie_Made_Man',
   'dan_harper',
   'benopotamus',
+  'kidiabo',
+  '____24qwe',
+  'vitorenes',
 ];
