@@ -782,4 +782,6 @@ export const ceoList = [
   'kidiabo',
   '____24qwe',
   'vitorenes',
+  'ishankbg',
+  'ToshikoEsbjorn',
 ];
