@@ -784,4 +784,5 @@ export const ceoList = [
   'vitorenes',
   'ishankbg',
   'ToshikoEsbjorn',
+  'asyncawaited',
 ];
