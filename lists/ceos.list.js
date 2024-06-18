@@ -788,4 +788,6 @@ export const ceoList = [
   'syhner',
   'goodgreeff',
   'Carbon_Being',
+  'stonys',
+  'Lifes_A_Haskell',
 ];
