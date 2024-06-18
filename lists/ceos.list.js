@@ -792,4 +792,5 @@ export const ceoList = [
   'Lifes_A_Haskell',
   'mikeyny_zw',
   'tuxrs_',
+  'guregu',
 ];
