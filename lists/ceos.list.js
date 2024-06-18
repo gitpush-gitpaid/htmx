@@ -790,4 +790,6 @@ export const ceoList = [
   'Carbon_Being',
   'stonys',
   'Lifes_A_Haskell',
+  'mikeyny_zw',
+  'tuxrs_',
 ];
