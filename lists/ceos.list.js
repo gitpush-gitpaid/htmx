@@ -805,4 +805,7 @@ export const ceoList = [
   'woyteck',
   'Dakixr',
   'tabbas97',
+  'Hydridity',
+  'Alex_SaenzR',
+  'sebascontre',
 ];
