@@ -810,4 +810,5 @@ export const ceoList = [
   'sebascontre',
   'JGWhorox',
   'kevin16king',
+  'Gaiaz_Iusipov',
 ];
