@@ -808,4 +808,6 @@ export const ceoList = [
   'Hydridity',
   'Alex_SaenzR',
   'sebascontre',
+  'JGWhorox',
+  'kevin16king',
 ];
