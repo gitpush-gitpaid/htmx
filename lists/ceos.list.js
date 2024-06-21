@@ -847,4 +847,6 @@ export const ceoList = [
   'i8u',
   'dvaergiller',
   'VADHOLMA',
+  'radstevee_',
+  'hamswaldenkv',
 ];
