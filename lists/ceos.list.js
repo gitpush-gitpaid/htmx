@@ -834,4 +834,5 @@ export const ceoList = [
   'aliasfoxkde',
   'orthotypos',
   'matteac_mem',
+  'worstprgr',
 ];
