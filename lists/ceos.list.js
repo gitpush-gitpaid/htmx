@@ -842,4 +842,5 @@ export const ceoList = [
   'geneguer',
   'tate_san_',
   'Dan45934931',
+  'agungberkah12',
 ];
