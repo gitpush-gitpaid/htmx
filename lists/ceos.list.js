@@ -835,4 +835,11 @@ export const ceoList = [
   'orthotypos',
   'matteac_mem',
   'worstprgr',
+  'ej_dev1',
+  'JOSH_DALEK',
+  'sigsegvme',
+  'karthik6071',
+  'geneguer',
+  'tate_san_',
+  'Dan45934931',
 ];
