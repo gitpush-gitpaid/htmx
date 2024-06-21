@@ -843,4 +843,5 @@ export const ceoList = [
   'tate_san_',
   'Dan45934931',
   'agungberkah12',
+  'wall3nart',
 ];
