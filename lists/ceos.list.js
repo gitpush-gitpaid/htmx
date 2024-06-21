@@ -846,4 +846,5 @@ export const ceoList = [
   'wall3nart',
   'i8u',
   'dvaergiller',
+  'VADHOLMA',
 ];
