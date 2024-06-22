@@ -852,4 +852,5 @@ export const ceoList = [
   'headpuhonies',
   'PoppedBit',
   'braindouche',
+  'GSCorentinDev',
 ];
