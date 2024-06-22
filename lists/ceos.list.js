@@ -853,4 +853,6 @@ export const ceoList = [
   'PoppedBit',
   'braindouche',
   'GSCorentinDev',
+  'Jeroenplug',
+  'bforbiggy',
 ];
