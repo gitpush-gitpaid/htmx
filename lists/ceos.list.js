@@ -855,4 +855,5 @@ export const ceoList = [
   'GSCorentinDev',
   'Jeroenplug',
   'bforbiggy',
+  'ciofina',
 ];
