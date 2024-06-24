@@ -861,4 +861,5 @@ export const ceoList = [
   'themattjnr',
   'kimchiiboiii',
   'darwinschuppan',
+  'chill_dadio',
 ];
