@@ -860,4 +860,5 @@ export const ceoList = [
   'proGamler',
   'themattjnr',
   'kimchiiboiii',
+  'darwinschuppan',
 ];
