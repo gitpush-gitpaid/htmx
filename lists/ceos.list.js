@@ -862,4 +862,8 @@ export const ceoList = [
   'kimchiiboiii',
   'darwinschuppan',
   'chill_dadio',
+  'uncannylukas',
+  '110010111101011',
+  'nazar_dunets',
+  'ptdorf',
 ];
