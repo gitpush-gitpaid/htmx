@@ -866,4 +866,6 @@ export const ceoList = [
   '110010111101011',
   'nazar_dunets',
   'ptdorf',
+  'prof_stupido',
+  'elqniemi',
 ];
