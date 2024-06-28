@@ -868,4 +868,5 @@ export const ceoList = [
   'ptdorf',
   'prof_stupido',
   'elqniemi',
+  'the_akhilesh_w',
 ];
