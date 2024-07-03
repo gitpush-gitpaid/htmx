@@ -870,4 +870,6 @@ export const ceoList = [
   'elqniemi',
   'the_akhilesh_w',
   'miginyon',
+  'scsibug',
+  'damir_pavlik',
 ];
