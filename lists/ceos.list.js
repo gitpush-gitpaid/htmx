@@ -872,4 +872,10 @@ export const ceoList = [
   'miginyon',
   'scsibug',
   'damir_pavlik',
+  'kosterziev',
+  'Danny_Fant0m',
+  'rolij_',
+  'FrancoKiwi_',
+  'folago',
+  'redhotvengeance',
 ];
