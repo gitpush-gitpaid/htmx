@@ -878,4 +878,10 @@ export const ceoList = [
   'FrancoKiwi_',
   'folago',
   'redhotvengeance',
+  'everenonbirdapp',
+  'amkia',
+  'esfisher',
+  'om211196',
+  'edgarsilvadev',
+  '0xMorax',
 ];
