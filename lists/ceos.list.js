@@ -884,4 +884,6 @@ export const ceoList = [
   'om211196',
   'edgarsilvadev',
   '0xMorax',
+  'macintushar',
+  'JonnyBergdahl',
 ];
