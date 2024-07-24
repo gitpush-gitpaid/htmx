@@ -889,4 +889,6 @@ export const ceoList = [
   'EduardoGom84682',
   'Fittiboy',
   'VeskoArt',
+  'Max63492753',
+  'papatiainc',
 ];
