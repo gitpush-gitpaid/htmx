@@ -891,4 +891,11 @@ export const ceoList = [
   'VeskoArt',
   'Max63492753',
   'papatiainc',
+  'thatpriceguy',
+  'kalrogtd',
+  'h4rl3h',
+  'nabunub',
+  'Prejudice1987',
+  'felix_roden',
+  'inventionpro_',
 ];
