@@ -899,4 +899,7 @@ export const ceoList = [
   'felix_roden',
   'inventionpro_',
   'SourCreamMcSalt',
+  'ThomasPemsel',
+  'Cmdr_Drygin',
+  'The_VivaVee',
 ];
