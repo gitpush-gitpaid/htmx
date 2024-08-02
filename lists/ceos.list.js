@@ -902,4 +902,6 @@ export const ceoList = [
   'ThomasPemsel',
   'Cmdr_Drygin',
   'The_VivaVee',
+  'doge_codes',
+  'MahanRahmati1',
 ];
