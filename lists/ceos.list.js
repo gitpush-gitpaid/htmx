@@ -904,4 +904,5 @@ export const ceoList = [
   'The_VivaVee',
   'doge_codes',
   'MahanRahmati1',
+  '603Zim',
 ];
