@@ -905,4 +905,8 @@ export const ceoList = [
   'doge_codes',
   'MahanRahmati1',
   '603Zim',
+  'IAmSeanR',
+  'torniker',
+  'kallidusa',
+  'qdaicho',
 ];
