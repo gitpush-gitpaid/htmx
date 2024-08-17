@@ -916,4 +916,7 @@ export const ceoList = [
   'titus_ff',
   'manishprivet',
   'recursed_',
+  'zerox_ff',
+  'ktitaro',
+  'Aceola',
 ];
