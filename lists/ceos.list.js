@@ -909,4 +909,11 @@ export const ceoList = [
   'torniker',
   'kallidusa',
   'qdaicho',
+  'GameDevMadeEasy',
+  'imkarimkarim',
+  'IlianC_I',
+  '__St_H_',
+  'titus_ff',
+  'manishprivet',
+  'recursed_',
 ];
