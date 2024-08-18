@@ -919,4 +919,5 @@ export const ceoList = [
   'zerox_ff',
   'ktitaro',
   'Aceola',
+  'shoeboxdnb',
 ];
