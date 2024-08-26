@@ -920,4 +920,13 @@ export const ceoList = [
   'ktitaro',
   'Aceola',
   'shoeboxdnb',
+  'bertsch_ma78745',
+  'autoiue',
+  'sigmasternchen',
+  'longyap358604',
+  'pcu43',
+  'cheedear',
+  'alies_dev',
+  'santedev_',
+  'vigorator',
 ];
