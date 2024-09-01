@@ -929,4 +929,10 @@ export const ceoList = [
   'alies_dev',
   'santedev_',
   'vigorator',
+  'imHangyaku',
+  'vutkyevitch',
+  'wdmvii',
+  'LukeDanielEmery',
+  'al_duncanson',
+  'DiTerlizziGi',
 ];
