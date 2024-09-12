@@ -943,4 +943,7 @@ export const ceoList = [
   'agonist42',
   'Paul__Rouge',
   'devgerred',
+  'taolicus',
+  'siddtwts',
+  'HabibZaidDev',
 ];
