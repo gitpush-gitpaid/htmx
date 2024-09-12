@@ -940,5 +940,7 @@ export const ceoList = [
   'ffaebi',
   'charly3pins',
   'HaskellEnjoyer',
-  
+  'agonist42',
+  'Paul__Rouge',
+  'devgerred',
 ];
