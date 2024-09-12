@@ -935,4 +935,10 @@ export const ceoList = [
   'LukeDanielEmery',
   'al_duncanson',
   'DiTerlizziGi',
+  'oneofthesamuels',
+  'FloodedRealms',
+  'ffaebi',
+  'charly3pins',
+  'HaskellEnjoyer',
+  
 ];
