@@ -946,4 +946,6 @@ export const ceoList = [
   'taolicus',
   'siddtwts',
   'HabibZaidDev',
+  'louisb7711',
+  'AidanBruner',
 ];
