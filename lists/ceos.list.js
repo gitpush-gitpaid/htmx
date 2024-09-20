@@ -948,4 +948,5 @@ export const ceoList = [
   'HabibZaidDev',
   'louisb7711',
   'AidanBruner',
+  'JonPiaget',
 ];
