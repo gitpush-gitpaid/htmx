@@ -949,4 +949,9 @@ export const ceoList = [
   'louisb7711',
   'AidanBruner',
   'JonPiaget',
+  'rich_seal',
+  'kennypyatt',
+  'qikka2886',
+  'JustPlayerde',
+  
 ];
