@@ -843,7 +843,7 @@ export const ceoList = [
   'tate_san_',
   'Dan45934931',
   'agungberkah12',
-  'wall3nart',
+  'AutisticOvrflow',
   'i8u',
   'dvaergiller',
   'VADHOLMA',
@@ -953,5 +953,7 @@ export const ceoList = [
   'kennypyatt',
   'qikka2886',
   'JustPlayerde',
-  
+  'Eeddieeeee',
+  'code_chimp',
+  'wyattscarpenter',
 ];
