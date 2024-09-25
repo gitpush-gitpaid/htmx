@@ -956,4 +956,7 @@ export const ceoList = [
   'Eeddieeeee',
   'code_chimp',
   'wyattscarpenter',
+  'AityzCat',
+  'matejbuocik',
+  'jrosell',
 ];
