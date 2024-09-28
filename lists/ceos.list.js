@@ -961,4 +961,5 @@ export const ceoList = [
   'jrosell',
   'intellectronica',
   'jfitzface',
+  'attero_',
 ];
