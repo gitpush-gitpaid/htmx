@@ -962,4 +962,6 @@ export const ceoList = [
   'intellectronica',
   'jfitzface',
   'attero_',
+  'Eth_Moon_',
+  'small_footnote',
 ];
