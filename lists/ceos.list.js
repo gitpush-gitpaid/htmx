@@ -965,4 +965,11 @@ export const ceoList = [
   'Eth_Moon_',
   'small_footnote',
   'graeme_crackrr',
+  'AlexMartinFR',
+  'tarponjargon',
+  'epeat_',
+  'gypsydave5',
+  'TheChoosenPanda',
+  'Fib11235813213',
+  'ashupednekar49',
 ];
