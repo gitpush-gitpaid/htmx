@@ -970,6 +970,5 @@ export const ceoList = [
   'epeat_',
   'gypsydave5',
   'TheChoosenPanda',
-  'Fib11235813213',
   'ashupednekar49',
 ];
