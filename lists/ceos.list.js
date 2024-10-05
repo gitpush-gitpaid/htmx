@@ -971,4 +971,8 @@ export const ceoList = [
   'gypsydave5',
   'TheChoosenPanda',
   'ashupednekar49',
+  'spaszah',
+  'qdread_',
+  'ThomasBui308',
+  'AtReyU_101',
 ];
