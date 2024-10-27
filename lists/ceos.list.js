@@ -982,4 +982,11 @@ export const ceoList = [
   'prathammdupare',
   'JamlieDev',
   'akhilles_',
+  'faizanakram99',
+  'TurnbullPierre',
+  'damikin20734',
+  'VictorNSWD',
+  'Greg_Bonney',
+  'manangulati99',
+  'Tygo_vd_Hurk',
 ];
