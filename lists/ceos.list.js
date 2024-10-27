@@ -989,4 +989,5 @@ export const ceoList = [
   'Greg_Bonney',
   'manangulati99',
   'Tygo_vd_Hurk',
+  'superd00b',
 ];
