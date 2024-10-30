@@ -990,4 +990,6 @@ export const ceoList = [
   'manangulati99',
   'Tygo_vd_Hurk',
   'superd00b',
+  'ammar_tsx',
+  'MeVictoriously',
 ];
