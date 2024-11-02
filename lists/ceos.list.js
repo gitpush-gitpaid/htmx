@@ -992,4 +992,5 @@ export const ceoList = [
   'superd00b',
   'ammar_tsx',
   'MeVictoriously',
+  'jarosz',
 ];
