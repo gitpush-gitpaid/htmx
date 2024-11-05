@@ -993,4 +993,5 @@ export const ceoList = [
   'ammar_tsx',
   'MeVictoriously',
   'jarosz',
+  'bee_fumo',
 ];
