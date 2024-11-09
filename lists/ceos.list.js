@@ -1019,4 +1019,5 @@ export const ceoList = [
   'devils_inn',
   '_CarlosDenia',
   'cheifgun',
+  'KryptXBSA',
 ];
