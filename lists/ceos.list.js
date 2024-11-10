@@ -1022,4 +1022,5 @@ export const ceoList = [
   'KryptXBSA',
   'aritmiabattito',
   'prometheusjkt',
+  'dan_goosewin',
 ];
