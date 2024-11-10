@@ -1023,4 +1023,5 @@ export const ceoList = [
   'aritmiabattito',
   'prometheusjkt',
   'dan_goosewin',
+  'willCuThere',
 ];
