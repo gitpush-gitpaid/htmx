@@ -1044,4 +1044,7 @@ export const ceoList = [
   'EvadingEvasions',
   'mabi19_',
   'lord_krondor',
+  'alvarinyo_',
+  'ShieldzV',
+  'SPiskaty',
 ];
