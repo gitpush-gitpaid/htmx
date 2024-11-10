@@ -1025,4 +1025,5 @@ export const ceoList = [
   'dan_goosewin',
   'willCuThere',
   '__mutex',
+  '0x000000E2',
 ];
