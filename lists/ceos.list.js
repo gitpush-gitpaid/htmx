@@ -1020,4 +1020,6 @@ export const ceoList = [
   '_CarlosDenia',
   'cheifgun',
   'KryptXBSA',
+  'aritmiabattito',
+  'prometheusjkt',
 ];
