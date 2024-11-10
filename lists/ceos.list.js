@@ -1042,4 +1042,6 @@ export const ceoList = [
   'true_redstart',
   'egor_ivkov',
   'EvadingEvasions',
+  'mabi19_',
+  'lord_krondor',
 ];
