@@ -1047,4 +1047,10 @@ export const ceoList = [
   'alvarinyo_',
   'ShieldzV',
   'SPiskaty',
+  '_nguyenpn',
+  'jonathansywulak',
+  'aaron5iu9',
+  'CadozaMichael',
+  'MLevanto',
+  'LukasHozda',
 ];
