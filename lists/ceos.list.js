@@ -1055,4 +1055,6 @@ export const ceoList = [
   'LukasHozda',
   'ctatedev',
   'davidbelliveau',
+  'merlijnvanlent',
+  'tfnoot',
 ];
