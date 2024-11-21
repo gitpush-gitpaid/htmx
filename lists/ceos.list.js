@@ -1057,4 +1057,12 @@ export const ceoList = [
   'davidbelliveau',
   'merlijnvanlent',
   'tfnoot',
+  'cajunLegalist',
+  'JasOn_1O',
+  'AlvaroG52984652',
+  'Don_Gosman',
+  'consistent_dev',
+  'ThisFiniteWorld',
+  'BrThim',
+  'mfay1999',
 ];
