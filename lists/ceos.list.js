@@ -1066,4 +1066,6 @@ export const ceoList = [
   'BrThim',
   'mfay1999',
   'dlwiest',
+  'JoelSalamangka',
+  'joefioti',
 ];
