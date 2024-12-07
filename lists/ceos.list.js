@@ -1068,4 +1068,9 @@ export const ceoList = [
   'dlwiest',
   'JoelSalamangka',
   'joefioti',
+  'ryandavogel',
+  'smoyame',
+  'blaine_andrada',
+  'Xanthum_',
+  'mostafarabbit',
 ];
