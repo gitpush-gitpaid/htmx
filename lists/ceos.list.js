@@ -1081,4 +1081,5 @@ export const ceoList = [
   'backendpresario',
   'j4nu5',
   'Dr_Emann',
+  'aljakobsson',
 ];
