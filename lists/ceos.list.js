@@ -1082,4 +1082,5 @@ export const ceoList = [
   'j4nu5',
   'Dr_Emann',
   'aljakobsson',
+  'bdougherty',
 ];
