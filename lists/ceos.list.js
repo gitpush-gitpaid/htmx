@@ -1073,4 +1073,5 @@ export const ceoList = [
   'blaine_andrada',
   'Xanthum_',
   'mostafarabbit',
+  'FireproofStorge',
 ];
