@@ -1083,4 +1083,5 @@ export const ceoList = [
   'Dr_Emann',
   'aljakobsson',
   'bdougherty',
+  'mitchellh',
 ];
