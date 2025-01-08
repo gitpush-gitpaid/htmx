@@ -1108,4 +1108,5 @@ export const ceoList = [
   'LowkeyAbu',
   'thinkingbytes_',
   'cobhimself',
+  'tampajohn',
 ];
