@@ -1109,4 +1109,5 @@ export const ceoList = [
   'thinkingbytes_',
   'cobhimself',
   'tampajohn',
+  'lexfridman',
 ];
