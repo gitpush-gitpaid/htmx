@@ -1110,4 +1110,5 @@ export const ceoList = [
   'cobhimself',
   'tampajohn',
   'lexfridman',
+  'theogcb405',
 ];
