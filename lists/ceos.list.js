@@ -1122,4 +1122,7 @@ export const ceoList = [
   'nalitnyk',
   'rodbv',
   'nictorgersen',
+  'forloopcodes',
+  'Thibault_1635',
+  'd3layd',
 ];
