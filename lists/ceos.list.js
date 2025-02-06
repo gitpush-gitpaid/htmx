@@ -1125,4 +1125,5 @@ export const ceoList = [
   'forloopcodes',
   'Thibault_1635',
   'd3layd',
+  'chardon_cs',
 ];
