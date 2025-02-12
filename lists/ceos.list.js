@@ -1137,4 +1137,11 @@ export const ceoList = [
   'KevinTheSome',
   'logiscreen',
   'dorianmariecom',
+  'qualk37',
+  'Klotzhauer',
+  'mmolleja',
+  'JakubK141726676',
+  'vlmlee',
+  'j_reyme26551',
+  'Motoblag',
 ];
