@@ -1,10 +1,12 @@
 import { ceoList } from '../lists/ceos.list.js';
 import { bodList } from '../lists/bod.list.js';
+import { jrCeoList } from '../lists/jr.ceo.list.js';
 
 document.addEventListener('DOMContentLoaded', () => {
   shuffleArray(ceoList);
   populateCeos('bod-container', 'bod', bodList);
   populateCeos('ceo-container', 'ceos', ceoList);
+  populateCeos('jrceo-container', 'jrceos', jrCeoList);
 
   const findCeoInput = document.getElementById('findCeo');
   findCeoInput.addEventListener('input', filterImages);
@@ -68,6 +70,7 @@ function filterImages() {
     .value.toLowerCase()
     .trim();
   const ceoContainer = document.getElementById('ceo-container');
+  const jrCeoContainer = document.getElementById('jrceo-container');
   const images = ceoContainer.querySelectorAll('a');
   images.forEach((image) => {
     const ceoName = image.querySelector('img').alt.toLowerCase().trim();
