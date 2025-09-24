@@ -1146,5 +1146,8 @@ export const ceoList = [
   'Motoblag',
   'hibakod',
   'aarondfrancis',
-  'tekbog'
+  'tekbog',
+  'DanielCluff',
+  'soulseekah',
+  'turbodotgg',
 ];
