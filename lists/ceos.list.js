@@ -1150,4 +1150,5 @@ export const ceoList = [
   'DanielCluff',
   'soulseekah',
   'turbodotgg',
+  'AllHailTemos',
 ];
