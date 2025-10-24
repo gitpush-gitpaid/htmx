@@ -1153,4 +1153,5 @@ export const ceoList = [
   'AllHailTemos',
   'gokhanpw',
   'hchinchilla_',
+  'twitchmaster',
 ];
