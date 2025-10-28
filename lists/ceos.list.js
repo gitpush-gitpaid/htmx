@@ -1156,4 +1156,5 @@ export const ceoList = [
   'twitchmaster',
   'backendbeau',
   'fitzgerald1337',
+  'HarshalGahlot',
 ];
