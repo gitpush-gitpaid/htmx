@@ -1162,4 +1162,6 @@ export const ceoList = [
   'MujtabaNem46252',
   '6Danio6',
   'jwpk',
+  'fahdashwr',
+  'ahmed0saber0',
 ];
