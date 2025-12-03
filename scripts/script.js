@@ -6,7 +6,15 @@ document.addEventListener('DOMContentLoaded', () => {
   shuffleArray(ceoList);
   populateCeos('bod-container', 'bod', bodList);
   populateCeos('ceo-container', 'ceos', ceoList);
-  populateCeos('jrceo-container', 'jrceos', jrCeoList);
+
+  const jrCeoHeading = document.getElementById('jrceo-heading');
+  const jrCeoContainer = document.getElementById('jrceo-container');
+  if (jrCeoList.length) {
+    populateCeos('jrceo-container', 'jrceos', jrCeoList);
+  } else {
+    jrCeoHeading?.classList.add('hidden');
+    jrCeoContainer?.classList.add('hidden');
+  }
 
   const findCeoInput = document.getElementById('findCeo');
   findCeoInput.addEventListener('input', filterImages);
@@ -70,7 +78,6 @@ function filterImages() {
     .value.toLowerCase()
     .trim();
   const ceoContainer = document.getElementById('ceo-container');
-  const jrCeoContainer = document.getElementById('jrceo-container');
   const images = ceoContainer.querySelectorAll('a');
   images.forEach((image) => {
     const ceoName = image.querySelector('img').alt.toLowerCase().trim();

@@ -1168,4 +1168,5 @@ export const ceoList = [
   'plataproxima',
   'MatteoPinzauti',
   'dmitrydan_',
+  'DispairSoftware',
 ];

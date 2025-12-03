@@ -1,1 +1,1 @@
-export const jrCeoList = ['DispairSoftware'];
+export const jrCeoList = [];
