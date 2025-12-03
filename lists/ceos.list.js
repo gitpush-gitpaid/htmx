@@ -1169,4 +1169,5 @@ export const ceoList = [
   'MatteoPinzauti',
   'dmitrydan_',
   'DispairSoftware',
+  'erholungbitte',
 ];
