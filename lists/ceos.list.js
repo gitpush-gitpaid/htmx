@@ -1166,4 +1166,6 @@ export const ceoList = [
   'ahmed0saber0',
   '_raazrI',
   'plataproxima',
+  'MatteoPinzauti',
+  'dmitrydan_',
 ];
