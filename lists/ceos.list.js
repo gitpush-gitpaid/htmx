@@ -1171,4 +1171,5 @@ export const ceoList = [
   'DispairSoftware',
   'erholungbitte',
   'BoardmanJa80032',
+  'peterszarvas94',
 ];
