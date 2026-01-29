@@ -1176,4 +1176,5 @@ export const ceoList = [
   'scholzdev',
   'abciobanu',
   'jinnosux',
+  'sibaiisaac',
 ];
