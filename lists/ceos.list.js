@@ -1179,4 +1179,6 @@ export const ceoList = [
   'sibaiisaac',
   'IsaiahWSteele',
   'messi670742',
+  'Savy_011',
+  'JakubJKrawczyk',
 ];
