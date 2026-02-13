@@ -1181,4 +1181,5 @@ export const ceoList = [
   'messi670742',
   'Savy_011',
   'JakubJKrawczyk',
+  'PikachuB2005',
 ];
