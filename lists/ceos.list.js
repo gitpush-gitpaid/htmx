@@ -1186,4 +1186,5 @@ export const ceoList = [
   'OutputRiff',
   'terminaldotshop',
   'cant_focus_101',
+  'GianluigiRubino',
 ];
