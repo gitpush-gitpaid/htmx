@@ -1185,4 +1185,5 @@ export const ceoList = [
   'narcards',
   'OutputRiff',
   'terminaldotshop',
+  'cant_focus_101',
 ];
