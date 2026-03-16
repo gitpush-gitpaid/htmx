@@ -1184,4 +1184,5 @@ export const ceoList = [
   'PikachuB2005',
   'narcards',
   'OutputRiff',
+  'terminaldotshop',
 ];
