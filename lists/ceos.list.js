@@ -1187,4 +1187,5 @@ export const ceoList = [
   'terminaldotshop',
   'cant_focus_101',
   'GianluigiRubino',
+  'joeljutsu',
 ];
