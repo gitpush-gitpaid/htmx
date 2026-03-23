@@ -1189,4 +1189,5 @@ export const ceoList = [
   'GianluigiRubino',
   'joeljutsu',
   'cesp2099',
+  'xcaliberzo',
 ];
