@@ -1188,4 +1188,5 @@ export const ceoList = [
   'cant_focus_101',
   'GianluigiRubino',
   'joeljutsu',
+  'cesp2099',
 ];
