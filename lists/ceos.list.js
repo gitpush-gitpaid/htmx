@@ -1191,4 +1191,5 @@ export const ceoList = [
   'cesp2099',
   'xcaliberzo',
   'tmeire_',
+  'normarayr',
 ];
