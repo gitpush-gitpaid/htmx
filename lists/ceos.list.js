@@ -1192,4 +1192,5 @@ export const ceoList = [
   'xcaliberzo',
   'tmeire_',
   'normarayr',
+  'divv_dev',
 ];
