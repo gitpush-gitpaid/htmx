@@ -1194,4 +1194,5 @@ export const ceoList = [
   'normarayr',
   'divv_dev',
   'Gardnmi',
+  'wlgos3',
 ];
