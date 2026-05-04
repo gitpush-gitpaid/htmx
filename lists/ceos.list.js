@@ -1196,4 +1196,5 @@ export const ceoList = [
   'Gardnmi',
   'wlgos3',
   'outwithreality',
+  '0xriprsa',
 ];
