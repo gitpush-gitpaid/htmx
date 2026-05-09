@@ -1197,4 +1197,5 @@ export const ceoList = [
   'wlgos3',
   'outwithreality',
   '0xriprsa',
+  't_alal02',
 ];
