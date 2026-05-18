@@ -1199,4 +1199,6 @@ export const ceoList = [
   '0xriprsa',
   't_alal02',
   'goblin_codes',
+  'TylerCLaprade',
+  'klnusbaum',
 ];
