@@ -1201,4 +1201,5 @@ export const ceoList = [
   'goblin_codes',
   'TylerCLaprade',
   'klnusbaum',
+  'AllanDav1d',
 ];
