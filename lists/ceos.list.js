@@ -1202,4 +1202,5 @@ export const ceoList = [
   'TylerCLaprade',
   'klnusbaum',
   'AllanDav1d',
+  'Srinath10X',
 ];
