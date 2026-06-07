@@ -1203,4 +1203,5 @@ export const ceoList = [
   'klnusbaum',
   'AllanDav1d',
   'Srinath10X',
+  '0xxxIaN0',
 ];
