@@ -1207,4 +1207,5 @@ export const ceoList = [
   'WyattRasmussen5',
   'SimY_4',
   '0x0_mico',
+  'josephkerkhof',
 ];
