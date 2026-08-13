@@ -55,7 +55,7 @@ export const ceoList = [
   'claudiogonzalo',
   'o__boga',
   'jacoblatonis',
-  'warptux',
+  'taigrr',
   'chern0CS',
   'IamFridayLove',
   'knewter',
