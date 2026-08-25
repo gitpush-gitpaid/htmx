@@ -1208,4 +1208,5 @@ export const ceoList = [
   'SimY_4',
   '0x0_mico',
   'josephkerkhof',
+  'learnda1ly',
 ];
