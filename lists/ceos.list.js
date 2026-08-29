@@ -1223,4 +1223,5 @@ export const ceoList = [
   'fatelvisburger',
   'ThomasMatecki',
   'devn',
+  'comaddox',
 ];
