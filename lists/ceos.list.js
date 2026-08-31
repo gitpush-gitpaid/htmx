@@ -1225,4 +1225,10 @@ export const ceoList = [
   'devn',
   'comaddox',
   'mcampbell_p',
+  'emerytang',
+  'progtrancelivin',
+  'thylnheo',
+  'cassbil',
+  'cepstr_io',
+  'allanw',
 ];
