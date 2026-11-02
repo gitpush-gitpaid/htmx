@@ -1232,4 +1232,5 @@ export const ceoList = [
   'cepstr_io',
   'allanw',
   'Cowboycodey',
+  'faykn_',
 ];
